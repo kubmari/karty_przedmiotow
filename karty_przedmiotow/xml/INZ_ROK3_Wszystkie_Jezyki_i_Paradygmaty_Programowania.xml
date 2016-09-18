@@ -1,0 +1,80 @@
+﻿<karta name='INZ_ROK3_Wszyscy_Jezyki_i_Paradygmaty_Programowania' timestamp='20160822125324' version='1' >
+	<ogolne >
+		<kod_przedmiotu >JPP</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Języki i paradygmaty programowania</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Programming Languages and Paradigms</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc><specjalnosc_item >Programowanie i bazy danych</specjalnosc_item><specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item><specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Robert' nazwisko='Kowalczyk' email='kowalcr@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >V</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Laboratorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item >2 godziny tygodniowo wykładu</sposob_realizacji_zajec_item><sposob_realizacji_zajec_item >2 godziny tygodniowo laboratorium</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów kierunkowych</modul>
+		<jezyk><jezyk_item >polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item >Umiejętność programowania strukturalnego i obiektowego w dowolnym jezyku programowania.</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item >Egzamin</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item >Wykład z prezentacją multimedialną.</metody_dydaktyczne_item><metody_dydaktyczne_item >Ćwiczenia przy komputerze.</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item >Brak.</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa><ksiazka autor='J. C. Reynolds' tytul='Theories of Programming Languages' wydawca='Cambridge University Press' rok='1998'/><ksiazka autor='M. Lipovača' tytul='Learn You a Haskell for Great Good!' wydawca='William Pollock' rok='2011'/><ksiazka autor='William Clocksin, Christopher S. Mellish' tytul='Programming in Prolog' wydawca='Springer-Verlag, Berlin Heidelberg' rok='2003'/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca><inne opis='Strony internetowe i tutoriale poświęcone językom Prolog i Haskell.'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<efekty >
+			<wiedza><efekt><efekt_kod >W1</efekt_kod><efekt_opis >Zna metody obliczeniowe i techniki programowania wspomagające rozwiązywanie problemów matematycznych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W04</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >W2</efekt_kod><efekt_opis >Ma usystematyzowaną wiedzę w zakresie paradygmatów programowania, technik i języków programowania umożliwiającą projektowanie prostych aplikacji użytkowych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W05</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod >U1</efekt_kod><efekt_opis >Potrafi samodzielnie kształcić się poprzez pozyskiwanie informacji z dostępnych źródeł krajowych oraz zagranicznych. Potrafi integrować pozyskane informacje, poddawać je interpretacji, wyciągać wnioski, a także formułować i uzasadniać opinie</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U2</efekt_kod><efekt_opis >Potrafi dobierać, implementować i oceniać wybrane algorytmy i struktury danych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U06</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod >K1</efekt_kod><efekt_opis >K1	Rozumie  potrzebę  i  zna  możliwości  ciągłego
+dokształcania się, podnoszenia kompetencji zawodowych
+i potrafi organizować proces uczenia się.
+</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K01</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Zaliczenie wykładu - test wielokrotnego wyboru z pytaniami otwartymi.
+Zaliczenie ćwiczeń - dwa kolokwia zaliczeniowe.
+Zaliczenie przedmiot - średnia ocen z wykładu i ćwiczeń.</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda='K' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U2' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='K1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W2' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='U2' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='K1' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >Celem przedmiotu jest zapoznanie studentów z czterema głównymi paradygmatami (ujętymi w ramach programowania imperatywnego i deklaratywnego) pojawiającymi się we współczesnym programowaniu, tzn.:
+- paradygmatem programowania proceduralno-strukturalnego (przypomnienie),
+- paradygmatem programowania obiektowego (przypomnienie),
+- paradygmatem programowania funkcyjnego,
+- paradygmatem programowania w logice.
+</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Przegląd języków programowania w aspekcie historycznym.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Programowanie funkcyjne w języku Haskell i jego główne cechy: funkcje wyższych rzędów, typy polimorficzne, rekurencja, lambda wyrażenia, listy i krotki, wartościowanie leniwe.
+Zastosowanie języka Haskell.
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='13'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='15'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Programowanie logiczne w języku Prolog i jego główne cechy: klauzule (reguły, fakty, cele), rezolucja, uzgadnianie i nawroty, rekurencja, listy, obsługa strumieni wejścia/wyjścia.
+Zastosowanie języka Prolog.
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='13'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='15'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.2'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='' ects='0'/>
+			<konsultacje_cwiczenia godziny='10' ects='0.4'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='20' ects='0.8'/>
+			<kolokwium godziny='25' ects='1.0'/>
+			<zajecia_wyklady godziny='0' ects='0'/>
+			<zajecia_cwiczenia godziny='10' ects='0.4'/>
+			<zajecia_projekt godziny='0' ects='0'/>
+		</student>
+	</ects>
+</karta>

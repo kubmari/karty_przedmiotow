@@ -1,0 +1,272 @@
+<karta name='INZ_ROK3_GK_Zaawansowane_Mozliwosci_Latexa' timestamp='20160812210132' version='1' >
+	<ogolne >
+		<kod_przedmiotu >LAT2</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Zaawansowane możliwości LaTeX-a</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Advanced Latex</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc >
+			<specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item>
+
+		</specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Cezary' nazwisko='Obczyński' email='czacza@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >V</semestr_numer>
+			<forma_zajec >
+
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Ćwiczenia</forma_zajec_item><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='15' >Wykład</forma_zajec_item>
+
+
+
+
+
+
+
+
+
+
+
+			</forma_zajec>
+			<sposob_realizacji_zajec >
+				<sposob_realizacji_zajec_item >Laboratorium</sposob_realizacji_zajec_item>
+
+			</sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów specjalizacyjnych do wyboru</modul>
+		<jezyk >
+			<jezyk_item >polski</jezyk_item>
+
+		</jezyk>
+		<wymagania >
+			<wymagania_item >Student ma zaliczony przedmiot Wstęp do LaTeXa</wymagania_item>
+
+
+		</wymagania>
+		<sposob_zaliczenia >
+			<sposob_zaliczenia_item >Egzamin</sposob_zaliczenia_item>
+
+		</sposob_zaliczenia>
+		<metody_dydaktyczne >
+			<metody_dydaktyczne_item >laboratorium - praca przy komputerach, pogadanka, prezentacja multimedialna</metody_dydaktyczne_item>
+
+		</metody_dydaktyczne>
+		<przedmioty_powiazane >
+			<przedmioty_powiazane_item >Wstęp do LaTeXa, Metapost</przedmioty_powiazane_item>
+
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<ksiazka autor='Goossens M., Ratz S., Mittelbach F.' tytul='The LaTeX Companion' wydawca='' rok=''/><ksiazka autor='Goossens M., Ratz S., Mittelbach F.' tytul='2. he LaTeX Graphics Companion oraz The LaTeX Web Companion' wydawca='' rok='1997'/><ksiazka autor='Rafajłowicz E. Myszka W.' tytul='LaTeX zaawansowane narzędzia' wydawca='' rok=''/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca >
+
+
+
+			<ksiazka autor='John Hobby' tytul='Learning by Doing, METAPOST' wydawca='' rok=''/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+
+	<szczegoly >
+		<tresci_przedmiotu >
+			<opis_ogolny >Zapoznanie studentów  z zaawansowanymi możliwościami profesjonalnego systemu do składu tekstu - LaTeX</opis_ogolny>
+			<opis_szczegolowy >
+
+
+				<opis_szczegolowy_item >
+				<opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Tworzenie dokumentów elektronicznych</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						
+					<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Tworzenie prezentacji multimedialnych</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>	
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U4</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Tworzenie prezentacji multimedialnych - pakiet Beamer</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='3'/>
+				</opis_szczegolowy_item>	
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U4</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Tworzenie prezentacji multimedialnych - pakiet HA-prosper. </opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='3'/>
+				</opis_szczegolowy_item>	
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U4</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Tworzenie prezentacji multimedialnych - pakiet pdfscreen</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='3'/>
+				</opis_szczegolowy_item>	
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U4</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Konwersja plików LaTeXowych do formatu HTML -  LaTeX2html</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='3'/>
+				</opis_szczegolowy_item>
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U4</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Rysowanie wewnętrz LaTeXa.</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='3'/>
+				</opis_szczegolowy_item>
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Korzystanie z rysunków tworzonych przez Gnuplota</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/>
+				</opis_szczegolowy_item>
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U5</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Program METAPOST do tworzenia grafiki wektorowej.</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='3'/>
+				</opis_szczegolowy_item>	
+				
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Inne pakiety: listings, examdesign, fancyhdr.
+</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+					<opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/>
+				</opis_szczegolowy_item>	
+				
+				
+			</opis_szczegolowy>
+		</tresci_przedmiotu>
+		<efekty >
+			<wiedza >
+				<efekt >
+					<efekt_kod >W1</efekt_kod>
+					<efekt_opis >zna zasady składania dokumentów technicznych, naukowych;</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_W10</efekt_kierunkowy>
+
+					</efekty_kierunkowe>
+				</efekt><efekt><efekt_kod >W2</efekt_kod><efekt_opis >Zna podstawowe metody, techniki, narzędzia i materiały stosowane przy rozwiązywaniu prostych zadań inżynierskich z zakresu studiowanego kierunku.
+</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W03</efekt_kierunkowy></efekty_kierunkowe></efekt>
+
+			</wiedza>
+			<umiejetnosci >
+				<efekt >
+					<efekt_kod >U1</efekt_kod>
+					<efekt_opis >posiada umiejętność stosowania specjalistycznych narzędzi edycyjnych i graficznych dla opracowania dokumentacji technicznej (inżynierskiej i naukowej).
+</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_W05</efekt_kierunkowy>
+
+					</efekty_kierunkowe>
+				</efekt><efekt><efekt_kod >U2</efekt_kod><efekt_opis >Potrafi przygotować i zaprezentować w języku polskim i obcym dobrze udokumentowane opracowanie problemów z zakresu informatyki.
+</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W05</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U3</efekt_kod><efekt_opis >posiada umiejętność tworzenia dokumentów elektronicznych w postaci interaktywnych PDF</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W08</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U4</efekt_kod><efekt_opis >Umie przygotowywać zaawansowane prezentacje (naukowe i techniczne) multimedialne przy użyciu odpowiednich pakietów LaTeX-owych</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W08</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U5</efekt_kod><efekt_opis >potrafi tworzyć mniej zaawansowane rysunki wektorowe w METAPOST</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W08</efekt_kierunkowy></efekty_kierunkowe></efekt>
+			</umiejetnosci>
+			<kompetencje >
+				<efekt >
+					<efekt_kod >K1</efekt_kod>
+					<efekt_opis >Rozumie potrzebę i zna możliwości ciągłego dokształcania się, podnoszenia kompetencji zawodowych i potrafi organizować proces uczenia się. 
+</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_K07</efekt_kierunkowy>
+
+					</efekty_kierunkowe>
+				</efekt>
+			</kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >laboratorium - projekty zaliczeniowe
+</metody_oceny_opis>
+			<metody_oceny_szczegoly >
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='W2'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='U1'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='U2'/>
+
+
+
+
+
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='U3' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U4' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U5' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='K1' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+	</szczegoly>
+
+	<ects >
+		<wykladowca >
+			<wyklad godziny='15' ects='0.6'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='18' ects='0.7'/>
+			<konsultacje_cwiczenia godziny='13' ects='0.5'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='0' ects='0'/>
+			<kolokwium godziny='0' ects='0'/>
+			<zajecia_wyklady godziny='15' ects='0.6'/> 
+			<zajecia_cwiczenia godziny='18' ects='0.8'/>
+			<zajecia_projekt godziny='15' ects='0.6'/>
+		</student>
+	</ects>
+</karta>

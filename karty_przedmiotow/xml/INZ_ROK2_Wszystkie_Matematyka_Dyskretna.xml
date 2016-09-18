@@ -1,0 +1,74 @@
+<karta name='INZ_ROK2_Wszystkie_Matematyka_Dyskretna' timestamp='20160918211550' version='1' >
+	<ogolne >
+		<kod_przedmiotu >MD</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Matematyka dyskretna</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Discrete mathematics</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc><specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item><specjalnosc_item >Programowanie i bazy danych</specjalnosc_item><specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Tadeusz' nazwisko='Antczak' email='antczak@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >III</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='15' >Wykład</forma_zajec_item><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='15' >Konwersatorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item >zajęcia w grupach 15-20 osobowych, 2 godz. wykładu + 2 godz. laboratorium  przez 7 tygodni + 1 godz. 1 tydzień.</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów podstawowych</modul>
+		<jezyk><jezyk_item >polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item >Logika i teoria mnogości.</wymagania_item><wymagania_item >Analiza matematyczna 1.</wymagania_item><wymagania_item >Algebra liniowa.</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item >Egzamin</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item >Wykład realizowany jest m.in. przy pomocy odpowiednio przygotowanych slajdów oraz pogadanki i/lub referatu, zaś zajęcia laboratoryjne w formie odpowiednio dobranych ćwiczeń praktycznych, m.in. dotyczą one praktycznego zastosowania omawianych na wykładzie algorytmów z teorii liczb, grafów.</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item >Logika i teoria mnogości</przedmioty_powiazane_item><przedmioty_powiazane_item >Analiza matematyczna 1</przedmioty_powiazane_item><przedmioty_powiazane_item >Algebra liniowa</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa><ksiazka autor='Wright Charles R. B., Ross Kenneth A.' tytul='Matematyka dyskretna' wydawca='PWN' rok='2016'/><ksiazka autor='W.Lipski' tytul='Kombinatoryka dla programistów' wydawca='Wydawnictwa Naukowo-Techniczne' rok='2004'/><ksiazka autor='K.A.Ross, Ch.R.B.Wright' tytul='Matematyka Dyskretna' wydawca='Państwowe Wydawnictwo Naukowe' rok='2005'/><ksiazka autor='R.J.Wilson' tytul='Wprowadzenie do teorii grafów' wydawca='Państwowe Wydawnictwo Naukowe' rok='1985'/><ksiazka autor='R.L. Graham, D.E. Knuth, O. Patashnik' tytul='Matematyka konkretna' wydawca='Wydawnictwo Naukowe PWN' rok='2002'/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca><ksiazka autor='Ryszard Rębowski' tytul='Matematyka Dyskretna dla Informatyków' wydawca='Seria wydawnicza PWSZ w Legnicy' rok='2008'/><ksiazka autor='V.Bryant' tytul='Aspekty kombinatoryki' wydawca='Wydawnictwa Naukowo-Techniczne' rok='1977'/><ksiazka autor='W.Lipski, W.Marek' tytul='Analiza kombinatoryczna' wydawca='Państwowe Wydawnictwo Naukowe' rok='1986'/><ksiazka autor='Z.Pałka, A.Ruciński' tytul='Wykłady z kombinatoryki' wydawca='Wydawnictwa Naukowo-Techniczne' rok='1998'/><ksiazka autor='Ryszard Rębowski i Janina Płaskonka' tytul='Zbiór zadań z matematyki dyskret-nej dla informatyków' wydawca='Seria wydawnicza PWSZ w Legnicy' rok='2009'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<efekty >
+			<wiedza><efekt><efekt_kod >W1</efekt_kod><efekt_opis >Ma usystematyzowaną wiedzę z zakresu logiki i teorii mnogości, matematyki dyskretnej, kombinatoryki, rachunku prawdopodobieństwa.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W01</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod >U1</efekt_kod><efekt_opis >Posługuje się podstawowymi pojęciami z zakresu, algebry liniowej, logiki i teorii mnogości, matematyki dyskretnej, kombinatoryki, rachunku prawdopodobieństwa. Umie rozwiązywać problemy matematyczne przy wykorzystaniu wybranych algorytmów matematyki dyskretnej.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U04</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod >K1</efekt_kod><efekt_opis >Rozumie potrzebę i zna możliwości ciągłego dokształcania się, podnoszenia kompetencji zawodowych i potrafi organizować proces uczenia się.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >K2</efekt_kod><efekt_opis >Potrafi pracować w grupie oraz indywidualnie. Rozumie odpowiedzialność za realizację zadań wykonywanych grupowo i indywidualnie.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K03</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Kryteria oceny osiągniętych efektów
+Ocenę końcową z przedmiotu stanowi 50% oceny uzyskanej z kolokwium w ramach konwersatorium oraz 50% oceny uzyskanej z egzaminu. Obecność/frekwencja na zajęciach nie stanowi potwierdzenia uzyskania żadnego efektu kształcenia.
+
+Metody weryfikacji efektów kształcenia
+Wykład - egzamin pisemny - test wielokrotnego wyboru (20 pytań - do każdego pytania dołączone są 3 odpowiedzi, przy czym każdy układ odpowiedzi poprawnych i fałszywych jest jednakowo prawdopodobny), w razie konieczności egzamin ustny w celu dokładniejszej weryfikacji efektów kształcenia
+Konserwatorium: zaliczenie rozwiązaniu 8 zadań zamkniętych i/lub otwartych.</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='K1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='K2' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='K1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='K2' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >Celami realizowanymi w ramach przedmiotu są:
+- Wysłuchanie wykładów z: relacyjnej teorii baz danych, teorii algorytmów i struktury danych oraz metod probabilistycznych i statystycznych.
+- Nauczenie interpretowania pojęć z zakresu informatyki w terminach matematyki: logiki, zbioru, kombinatoryki, ciągu, grafu.
+- Pokazanie zastosowań aparatu: logiki matematycznej, teorii zliczania, teorii grafów, rekurencji do rozwiązywania rozmaitych problemów, w tym o charakterze informatycznym.</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Wprowadzenie do logiki matematycznej: pojęcie zdania, funktory i zdania złożone, rachunek predykatów, tautologie i ich metody dowodzenia.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Elementy teorii zbiorów: pojęcie zbioru, zbiory skończone i nieskończone, działania na zbiorach, zbiory liczbowe, zbiory dyskretne.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Indukcja matematyczna – dowodzenie twierdzeń, w których jest mowa o liczbach naturalnych.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='1'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Rekurencja: definicje rekurencyjne, ciągi liczbowe, ciągi rekurencyjne, algorytmy rekurencyjne: Największy wspólny dzielnik - Algorytm Euklidesa, szybki algorytm NWD, Sortowanie przez scalanie.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Systemy liczbowe: typy systemów liczbowych, działania w systemach liczbowych, konwersja liczb z jednego systemu w drugi, reprezentacja liczb w komputerze, algorytmy dotyczące systemów liczbowych.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Kombinatoryka: permutacje, permutacje z powtórzeniami, kombinacje, wariacje bez powtórzeń, wariacje z powtórzeniami, zadania kombinatoryczne.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='1'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Elementarny rachunek prawdopodobieństwa: definicja klasyczna i funkcyjna prawdopodobieństwa, niezależność zdarzeń, prawdopodobieństwo warunkowe, prawdopodobieństwo całkowite, schemat Bernoulliego, zadania z rachunku pradopodobieństwa.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Teoria grafów i drzew: pojęcie grafu, podstawowe elementy grafu, typy grafów, drogi, cyklu Eulera i Hamiltona, grafy acykliczne. Grafy planarne i ich własności. Drzewa jako grafy i ich zastosowania w informaty-ce. Drzewa rozpinające i z wagami. Reprezentacja grafów w komputerze. Algorytmy grafowe: algorytmy przeszukiwania grafu, drzewa rozpinającego, algorytm Huffmana, algorytm Kruskala wyznaczania minimalnego drzewa rozpinającego dla grafu ważonego, algorytm wyznaczania długości najkrótszych dróg (algorytm Dijkstry).</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='3'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='3'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Egzamin zerowy.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='15' ects='0.6'/>
+			<konwersatorium godziny='' ects=''/>
+			<cwiczenia godziny='15' ects='0.6'/>
+			<konsultacje_wyklad godziny='3' ects='0.12'/>
+			<konsultacje_cwiczenia godziny='5' ects='0.2'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='8' ects='0.32'/>
+			<kolokwium godziny='11' ects='0.44'/>
+			<zajecia_wyklady godziny='3' ects='0.12'/>
+			<zajecia_cwiczenia godziny='15' ects='0.6'/>
+			<zajecia_projekt godziny='' ects=''/>
+		</student>
+	</ects>
+</karta>

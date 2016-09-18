@@ -1,0 +1,173 @@
+<karta name='INZ_ROK4_Wszystkie_Algebra_dla_Informatykow' timestamp='20160629141328' version='1' >
+	<ogolne >
+		<kod_przedmiotu >AL</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Algebra dla informatyków</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Algebra for computer scientists </nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc >
+			<specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item>
+			<specjalnosc_item >Programowanie i bazy danych</specjalnosc_item>
+		<specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Rafał' nazwisko='Kamocki' email='rafkam@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >VII</semestr_numer>
+			<forma_zajec >
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Konwersatorium</forma_zajec_item>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec >
+				<sposob_realizacji_zajec_item >Wykład dla całego kierunku 30 godzin w semestrze;</sposob_realizacji_zajec_item>
+				
+			<sposob_realizacji_zajec_item >Ćwiczenia -  zajęcia w grupach 25-30 osobowych 30 godzin w semestrze; </sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów podstawowych</modul>
+		<jezyk >
+			<jezyk_item >polski</jezyk_item>
+			
+		</jezyk>
+		<wymagania >
+			<wymagania_item >Wiadomości szkolne z algebry</wymagania_item>
+			
+			
+		</wymagania>
+		<sposob_zaliczenia >
+			<sposob_zaliczenia_item >Zaliczenie z oceną</sposob_zaliczenia_item>
+			
+		</sposob_zaliczenia>
+		<metody_dydaktyczne >
+			<metody_dydaktyczne_item >Wykład z analizą tekstu przy pomocy specjalnie skonstruowanych przykładów pobudzających do samodzielnych wniosków.</metody_dydaktyczne_item>
+			<metody_dydaktyczne_item >Konwersatorium – dyskusja, zadania do rozwiązania.</metody_dydaktyczne_item>
+		</metody_dydaktyczne>
+		<przedmioty_powiazane >
+			<przedmioty_powiazane_item >Algebra liniowa z geometrią</przedmioty_powiazane_item>
+			
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa >
+				<ksiazka autor='W. Sierpiński' tytul='Zasady algebry wyższej ' wydawca='Monografie matematyczna, t. 1' rok='1946'/>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			<inne opis='Materiały przygotowane przez prowadzącego'/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca >
+				
+				
+				
+			<ksiazka autor='M. Filipczak' tytul='Wykłady z algebry ' wydawca='PWN' rok='2009'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<tresci_przedmiotu >
+			<opis_ogolny >1) Zapoznanie studenta z liczbami zespolonymi i wielomianami oraz ich podstawowymi własnościami. 
+2) Znajomość  podstawowych pojęć z teorii liczb oraz grafów i umiejętność jej stosowania w różnych typach zadań. 
+3) Znajomość teorii przekształceń liniowych  i umiejętność jej stosowania w różnych typach zadań. </opis_ogolny>
+			<opis_szczegolowy >
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Liczby zespolone, podstawowe definicje i własności. Działania na liczbach zespolonych. Postać algebraiczna, sprzężenie, moduł liczby zespolonej. Postać trygonometryczna i wykładnicza liczby zespolonej, wzór de Moivre’a. Potęgowanie i pierwiastkowanie liczb zespolonych.  </opis_szczegolowy_item_temat>
+					
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='6'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						
+					<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Wielomiany i ich podzielność. Pierwiastki wielomianu i ich wyznaczanie. Podstawowe twierdzenie algebry. Rozkład wielomianów na czynniki nierozkładalne. Schemat Hornera i jego zastosowania. </opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/>
+				</opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Przekształcenie liniowe. Obraz i jądro przekształcenia liniowego. Reprezentacja macierzowa przekształcenia liniowego. Odwracalność przekształcenia liniowego. </opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Podstawowe zagadnienia z teorii liczb – m.in. podzielność i algorytm Euklidesa. Podstawowe zagadnienia z teorii grafów</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='14'/><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='14'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+		<efekty >
+			<wiedza >
+				<efekt >
+					<efekt_kod >W1</efekt_kod>
+					<efekt_opis >Student ma usystematyzowaną wiedzę z zakresu teorii liczb, grafów, wielomianów, liczb zespolonych oraz przekształceń liniowych </efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_W01</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+				
+			</wiedza>
+			<umiejetnosci >
+				<efekt >
+					<efekt_kod >U1</efekt_kod>
+					<efekt_opis >Student umie wykonywać podstawowe działania na liczbach zespolonych, a także wielomianach.
+</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_U04</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			<efekt><efekt_kod >U2</efekt_kod><efekt_opis >Student umie rozwiązywać zadania związane z teorią przekształceń liniowych (sprawdzanie czy dane odwzorowanie jest przekształceniem liniowym, wyznaczanie jądra, obrazu przekształcenia liniowego) oraz potrafi omówić wybrane algorytmy grafowe. </efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U04</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje >
+				
+			<efekt><efekt_kod >K1</efekt_kod><efekt_opis >Student zna ograniczenie własnej wiedzy i rozumie potrzebę dalszego kształcenia</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >K2</efekt_kod><efekt_opis >Student potrafi myśleć i działać w sposób kreatywny</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K02</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Zaliczenie z oceną w postaci kolokwium pisemnego i sprawdzianu z teorii</metody_oceny_opis>
+			<metody_oceny_szczegoly >
+				
+				
+				
+				
+				
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U1'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U2'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='K1'/>
+			<metody_oceny_szczegoly_item metoda='K' kod_efektu='K2' uwaga=''/><metody_oceny_szczegoly_item metoda='I' kod_efektu='W1' uwaga='Sprawdzian'/><metody_oceny_szczegoly_item metoda='I' kod_efektu='K1' uwaga='Sprawdzian'/><metody_oceny_szczegoly_item metoda='I' kod_efektu='K2' uwaga='Sprawdzian'/></metody_oceny_szczegoly>
+		</metody_oceny>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.2'/>
+			<konwersatorium godziny='30' ects='1.2'/>
+			<cwiczenia godziny='0' ects='0'/>
+			<konsultacje_wyklad godziny='5' ects='0.2'/>
+			<konsultacje_cwiczenia godziny='5' ects='0.2'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='0' ects='0'/>
+			<kolokwium godziny='15' ects='0.6'/>
+			<zajecia_wyklady godziny='5' ects='0.2'/>
+			<zajecia_cwiczenia godziny='10' ects='0.4'/>
+			<zajecia_projekt godziny='0' ects='0'/>
+		</student>
+	</ects>
+</karta>

@@ -1,0 +1,261 @@
+<karta name='INZ_ROK3_Wszystkie_Administracja_Platformami_E_Learningowymi' timestamp='20160421124608' version='1' > 
+    <ogolne > 
+        <kod_przedmiotu >OBI</kod_przedmiotu> 
+        <nazwa_przedmiotu > 
+            <nazwa_przedmiotu_item jezyk='pl' >Administracja platformami e-learningowymi</nazwa_przedmiotu_item> 
+            <nazwa_przedmiotu_item jezyk='en' >Administration of e-learning platforms </nazwa_przedmiotu_item> 
+        </nazwa_przedmiotu> 
+        <kierunek >Informatyka</kierunek> 
+        <forma >Stacjonarne</forma> 
+        <poziom >Studia I stopnia inżynierskie</poziom> 
+        <profil >Praktyczny</profil> 
+        <specjalnosc>
+            <specjalnosc_item >Programowanie i bazy danych</specjalnosc_item>
+            <specjalnosc_item >Grafika komputerowa</specjalnosc_item>
+            <specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item>
+        </specjalnosc> 
+        <jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna> 
+        <koordynator imie='Katarzyna' nazwisko='Racka' email='k.racka@pwszplock.pl'/> 
+        <miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec> 
+        <semestr > 
+            <semestr_nazwa >Semestr zimowy</semestr_nazwa> 
+            <semestr_numer >V</semestr_numer> 
+            <forma_zajec>
+                <forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Ćwiczenia</forma_zajec_item>
+            </forma_zajec> 
+            <sposob_realizacji_zajec>
+                <sposob_realizacji_zajec_item >zajęcia w grupach 25-30 osobowych, wielkość jednostki zajęć. 2 godziny tygodniowo</sposob_realizacji_zajec_item>
+            </sposob_realizacji_zajec> 
+        </semestr> 
+        <modul >Moduł przedmiotów ogólnouczelnianych do wyboru</modul> 
+        <jezyk>
+            <jezyk_item >polski</jezyk_item>
+        </jezyk> 
+        <wymagania>
+            <wymagania_item >Brak</wymagania_item>
+        </wymagania> 
+        <sposob_zaliczenia>
+            <sposob_zaliczenia_item >Projekt</sposob_zaliczenia_item>
+        </sposob_zaliczenia> 
+        <metody_dydaktyczne>
+            <metody_dydaktyczne_item >Słowne - pogadanka z prezentacją multimedialną</metody_dydaktyczne_item>
+            <metody_dydaktyczne_item >Praktyczne - zadania do wykonania z wykorzystaniem oprogramowania zainstalowanego na komputerach w salach informatycznych</metody_dydaktyczne_item>
+        </metody_dydaktyczne> 
+        <przedmioty_powiazane>
+            <przedmioty_powiazane_item >Aktywny internet</przedmioty_powiazane_item>
+        </przedmioty_powiazane> 
+        <bibliografia > 
+            <bibliografia_podstawowa>
+                <ksiazka autor='Marek Hyla' tytul='Przewodnik po e-learningu' wydawca='Oficyna Wolters Kluwer' rok='2012'/>
+                <ksiazka autor='Marlena Plebańska' tytul='E-learning: tajniki edukacji na odległość' wydawca='Wydawnictwo C. H. Beck' rok='2011'/>
+                <ksiazka autor='Marlena Plebańska, Izabela Kula' tytul='E-learning: treści, narzędzia, praktyka' wydawca='Almamer Szkoła Wyższa' rok='2011'/>
+                <url opis='Dokumentacja internetowa' url='https://docs.moodle.org'/>
+                <url opis='Dokumentacja internetowa' url='https://hotpot.uvic.ca/tutorials6.php '/>
+            </bibliografia_podstawowa> 
+            <bibliografia_uzupelniajaca/> 
+        </bibliografia> 
+    </ogolne> 
+    <szczegoly > 
+        <efekty > 
+            <wiedza>
+                <efekt>
+                    <efekt_kod >W1</efekt_kod>
+                    <efekt_opis >Ma uporządkowaną wiedzę teoretyczną i praktyczną z zakresu nowoczesnych technologii internetowych </efekt_opis>
+                    <efekty_kierunkowe>
+                        <efekt_kierunkowy >I1P_W11 </efekt_kierunkowy>
+                    </efekty_kierunkowe>
+                </efekt>
+                <efekt>
+                    <efekt_kod >W2</efekt_kod>
+                    <efekt_opis >Zna podstawowe zagadnienia dotyczące projektowania systemów informatycznych</efekt_opis>
+                    <efekty_kierunkowe>
+                        <efekt_kierunkowy >I1P_W14</efekt_kierunkowy>
+                    </efekty_kierunkowe>
+                </efekt>
+            </wiedza> 
+            <umiejetnosci>
+                <efekt>
+                    <efekt_kod >U1</efekt_kod>
+                    <efekt_opis >Potrafi wykorzystać poznane techniki i języki programowania do tworzenia aplikacji internetowych</efekt_opis>
+                    <efekty_kierunkowe>
+                        <efekt_kierunkowy >I1P_U09 </efekt_kierunkowy>
+                    </efekty_kierunkowe>
+                </efekt>
+                <efekt>
+                    <efekt_kod >U2</efekt_kod>
+                    <efekt_opis >Potrafi formułować specyfikację systemów oraz projektować systemy informatyczne i modelować przepływ danych w tych systemach</efekt_opis>
+                    <efekty_kierunkowe>
+                        <efekt_kierunkowy >I1P_U10</efekt_kierunkowy>
+                    </efekty_kierunkowe>
+                </efekt>
+            </umiejetnosci> 
+            <kompetencje>
+                <efekt>
+                    <efekt_kod >K1</efekt_kod>
+                    <efekt_opis >Rozumie potrzebę i zna możliwości ciągłego dokształcania się, podnoszenia kompetencji zawodowych i potrafi organizować proces uczenia się. </efekt_opis>
+                    <efekty_kierunkowe>
+                        <efekt_kierunkowy >I1P_K01 </efekt_kierunkowy>
+                    </efekty_kierunkowe>
+                </efekt>
+                <efekt>
+                    <efekt_kod >K2</efekt_kod>
+                    <efekt_opis >Potrafi myśleć i działać w sposób kreatywny i przedsiębiorczy</efekt_opis>
+                    <efekty_kierunkowe>
+                        <efekt_kierunkowy >I1P_K02 </efekt_kierunkowy>
+                    </efekty_kierunkowe>
+                </efekt>
+            </kompetencje> 
+        </efekty> 
+        <metody_oceny > 
+            <metody_oceny_opis ></metody_oceny_opis> 
+            <metody_oceny_szczegoly>
+                <metody_oceny_szczegoly_item metoda='P' kod_efektu='W1'/>
+                <metody_oceny_szczegoly_item metoda='P' kod_efektu='W2'/>
+                <metody_oceny_szczegoly_item metoda='P' kod_efektu='U1'/>
+                <metody_oceny_szczegoly_item metoda='P' kod_efektu='U2'/>
+                <metody_oceny_szczegoly_item metoda='P' kod_efektu='K1'/>
+                <metody_oceny_szczegoly_item metoda='P' kod_efektu='K2'/>
+            </metody_oceny_szczegoly> 
+        </metody_oceny> 
+        <tresci_przedmiotu > 
+            <opis_ogolny >Zapoznanie studentów z mechanizmami e-learningowymi, oprogramowaniem e-learningowym oraz zastosowaniem platform e-learningu w procesach szkolenia. </opis_ogolny> 
+            <opis_szczegolowy>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Platformy e-learningowe – wiadomości wstępne </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='1'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Instalacja platformy e-learningowej </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Administracja platformą e-learningową</opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Administracja użytkownikami </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Tworzenie i administracja kursami </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Lekcja</opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Quiz </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Ankieta </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='1'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >HotPotatoes </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Modyfikowanie wyglądu platformy </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='1'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Prezentacje i filmy </opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='3'/>
+                </opis_szczegolowy_item>
+                <opis_szczegolowy_item>
+                    <opis_szczegolowy_item_efekty>
+                        <opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+                        <opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+                    </opis_szczegolowy_item_efekty>
+                    <opis_szczegolowy_item_temat >Projekt</opis_szczegolowy_item_temat>
+                    <opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='6'/>
+                </opis_szczegolowy_item>
+            </opis_szczegolowy> 
+        </tresci_przedmiotu> 
+    </szczegoly> 
+    <ects > 
+        <wykladowca > 
+            <wyklad godziny='0' ects='0'/> 
+            <konwersatorium godziny='0' ects='0'/> 
+            <cwiczenia godziny='30' ects='1.2'/> 
+            <konsultacje_wyklad godziny='0' ects='0'/> 
+            <konsultacje_cwiczenia godziny='5' ects='0.2'/> 
+        </wykladowca> 
+        <student > 
+            <egzamin godziny='0' ects='0'/> 
+            <kolokwium godziny='0' ects='0'/> 
+            <zajecia_wyklady godziny='0' ects='0'/> 
+            <zajecia_cwiczenia godziny='7' ects='0.3'/> 
+            <zajecia_projekt godziny='8' ects='0.3'/> 
+        </student> 
+    </ects> 
+</karta>

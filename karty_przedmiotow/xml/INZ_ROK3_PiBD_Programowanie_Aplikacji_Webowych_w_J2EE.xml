@@ -1,0 +1,73 @@
+﻿<karta name='INZ_ROK3_PiBD_Programowanie_Aplikacji_Webowych_w_J2EE' timestamp='20160831004515' version='1' >
+	<ogolne >
+		<kod_przedmiotu >J2EE</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Programowanie aplikacji webowych w J2EE</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Programming web applications in J2EE</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc><specjalnosc_item >Programowanie i bazy danych</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Sebastian' nazwisko='Wojczyk' email='wojczyk@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >V</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='15' >Wykład</forma_zajec_item><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Laboratorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item >2 godziny tygodniowo wykładu (pół semestru)</sposob_realizacji_zajec_item><sposob_realizacji_zajec_item >2 godziny tygodniowo laboratorium</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów specjalizacyjnych do wyboru</modul>
+		<jezyk><jezyk_item >polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item >Umiejętność programowania w dowolnym języku obiektowym.</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item >Egzamin</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item >Wykład.</metody_dydaktyczne_item><metody_dydaktyczne_item >Praktyczna samodzielna praca przy komputerze – środowisko J2EE.</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item >Brak.</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa><ksiazka autor='Rychlicki-Kicior K.' tytul='J2ME. Praktyczne projekty. Wydanie II' wydawca='Helion' rok='2011'/><ksiazka autor='Bochenek A.' tytul='Prosty przepis na J2EE: Boss, Eclipse i komponenty EJB' wydawca='Helion' rok='2009'/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca><ksiazka autor='Majkowski W.' tytul='Frameworki JavaScript. Projektowanie interaktywnych i dynamicznych stron WWW' wydawca='Helion' rok='2014'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<efekty >
+			<wiedza><efekt><efekt_kod >W1</efekt_kod><efekt_opis >Zna architekturę typowych aplikacji webowych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W11</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >W2</efekt_kod><efekt_opis >Zna zasady i przykłady zastosowania komunikacji synchronicznej i asynchronicznej.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W11</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod >U1</efekt_kod><efekt_opis >Potrafi stworzyć w środowisku J2EE strony internetowe.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U09</efekt_kierunkowy><efekt_kierunkowy >I1P_U10</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U2</efekt_kod><efekt_opis >Potrafi wykorzystać bazę danych w aplikacji webowej.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U18</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod >K1</efekt_kod><efekt_opis >Zdaje sobie sprawę z konieczności zapewnienia odpowiedniego poziomu bezpieczeństwa w aplikacjach webowych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K04</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Ćwiczenia: Ocena z ćwiczeń, to ocena z kolokwium podczas którego należy napisać prostą stronę webową wykorzystującą bazę danych (program komputerowy) (U1, U2).
+Egzamin: Egzamin będzie składał się z grup pytań/zadań, z których każda będzie sprawdzała jeden efekt kształcenia (W1, W2, K1). Egzamin będzie zaliczony, jeżeli student z każdego efektu uzyska ocenę pozytywną.
+Ocena końcowa: Ocena końcowa bazuje na średniej arytmetycznej oceny z ćwiczeń i oceny z egzaminu.
+</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W2' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='K1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U2' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >Zapoznanie studentów z językiem programowania Java oraz środowiskiem NetBeans.
+Nauczenie programowania aplikacji internetowych z wykorzystaniem technologii J2EE.
+</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Architektura aplikacji internetowych: dwuwarstwowa, trójwarstwowa, model MVC.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='3'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Sposoby komunikacji klient-serwer (synchroniczna i asynchroniczna).</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Środowisko NetBeans.
+Tworzenie stron internetowych i kontrolek.
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='16'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Obsługa błędów w aplikacjach J2EE</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Zarządzanie stanem aplikacji w J2EE. Obsługa aplikacji, sesji, cookie.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Aplikacje bazodanowe z wykorzystaniem J2EE.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Identyfikacja i autoryzacja użytkowników.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='2'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='15' ects='0.6'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='5' ects='0.2'/>
+			<konsultacje_cwiczenia godziny='15' ects='0.6'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='15' ects='0.6'/>
+			<kolokwium godziny='0' ects='0'/>
+			<zajecia_wyklady godziny='10' ects='0.4'/>
+			<zajecia_cwiczenia godziny='35' ects='1.4'/>
+			<zajecia_projekt godziny='0' ects='0'/>
+		</student>
+	</ects>
+</karta>

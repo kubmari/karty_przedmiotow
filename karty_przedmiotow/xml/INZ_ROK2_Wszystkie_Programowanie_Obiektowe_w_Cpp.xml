@@ -1,0 +1,406 @@
+<karta name='INZ_ROK2_Wszystkie_Programowanie_Obiektowe_w_Cpp' timestamp='20160524155557' version='1' >
+	<ogolne >
+		<kod_przedmiotu >PC2</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Programowanie obiektowe w C++</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Object-oriented programming in C++</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc>
+			<specjalnosc_item >Programowanie i bazy danych</specjalnosc_item>
+			<specjalnosc_item >Grafika komputerowa</specjalnosc_item>
+			<specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item>
+		</specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Dariusz' nazwisko='Wardowski' email='wardd@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >III</semestr_numer>
+			<forma_zajec>
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item>
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Ćwiczenia</forma_zajec_item>
+			</forma_zajec>
+			<sposob_realizacji_zajec>
+				<sposob_realizacji_zajec_item >Laboratoria odbywają się w grupach 20 – 25  osobowych 2 godziny tygodniowo.</sposob_realizacji_zajec_item>
+			</sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów kierunkowych do wyboru</modul>
+		<jezyk>
+			<jezyk_item >polski</jezyk_item>
+		</jezyk>
+		<wymagania>
+			<wymagania_item >Podstawy programowanai strukturalnego</wymagania_item>
+		</wymagania>
+		<sposob_zaliczenia>
+			<sposob_zaliczenia_item >1 kolokwium</sposob_zaliczenia_item>
+		</sposob_zaliczenia>
+		<metody_dydaktyczne>
+			<metody_dydaktyczne_item >słowne (pogadanki, wykład, dyskusja)</metody_dydaktyczne_item>
+			<metody_dydaktyczne_item >praktyczne (zadania do rozwiązania)</metody_dydaktyczne_item>
+		</metody_dydaktyczne>
+		<przedmioty_powiazane>
+			<przedmioty_powiazane_item >Moduł przedmiotów kierunkowych do wyboru</przedmioty_powiazane_item>
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa>
+				<ksiazka autor='Stephen Prata; przekł [z ang] Piotr Listosz [i in.]' tytul='Język C++: szkoła programowania' wydawca='Robomatic' rok='2003'/>
+				<ksiazka autor='Larry Ullman, Andreas Signer; [tł Przemysław Szeremiota, Andrzej Zawadzki]' tytul='Programowanie w języku C++' wydawca='Helion' rok='2007'/>
+			</bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca>
+				<ksiazka autor='Herb Sutter, Andrei Alexandrescu; [tł. Przemysław Szeremiota]' tytul='Język C++ : standardy kodowania: 101 zasad, wytycznych i zalecanych praktyk' wydawca='Helion' rok='2005'/>
+			</bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+
+	<szczegoly >
+		<efekty >
+			<wiedza>
+				<efekt>
+					<efekt_kod >W1</efekt_kod>
+					<efekt_opis >Student zna założenia paradygmatu programowania obiektowego – abstrakcja, hermetyzacja, polimorfizm, dziedziczenie</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy >I1P_W05</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+				<efekt>
+					<efekt_kod >W2</efekt_kod>
+					<efekt_opis >Student zna podstawowe pojęcia związane z programowaniem obiektowym: klasa, obiekt, pole składowe klasy, metoda, konstruktor (domyślny, z argumentami, kopiujący), destruktor, funkcja zaprzyjaźniona z klasą</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy >I1P_W04</efekt_kierunkowy>
+						<efekt_kierunkowy >I1P_W05</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+			</wiedza>
+			<umiejetnosci>
+				<efekt>
+					<efekt_kod >U1</efekt_kod>
+					<efekt_opis >Student potrafi programować w języku C++ zgodnie z założeniami programowania obiektowego.</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy >I1P_U06</efekt_kierunkowy>
+						<efekt_kierunkowy >I1P_U09</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+				<efekt>
+					<efekt_kod >U2</efekt_kod>
+					<efekt_opis >Student potrafi napisać klasę dla obiektu ze świata rzeczywistego z odpowiednim zestawem pól składowych i metod</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy >I1P_U06</efekt_kierunkowy>
+						<efekt_kierunkowy >I1P_U09</efekt_kierunkowy>
+						<efekt_kierunkowy >I1P_U15</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+			</umiejetnosci>
+			<kompetencje>
+				<efekt>
+					<efekt_kod >K1</efekt_kod>
+					<efekt_opis >Student potrafi wybrać i zastosować odpowiednie narzędzie programowania obiektowego w celu rozwiązania danego problemu</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy >I1P_K02</efekt_kierunkowy>
+						<efekt_kierunkowy >I1P_K07</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+			</kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Ocena końcowa z przedmiotu to ocena z kolokwium, które będzie obejmowało zakres omawiany na wykładzie na laboratoriach. Kolokwium będzie realizowane przy komputerze. Kolokwium będzie zaliczone, jeżeli student z każdego efektu uzyska ocenę pozytywną.</metody_oceny_opis>
+			<metody_oceny_szczegoly>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='W2'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U1'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U2'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='K1'/>
+			</metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >Celem przedmiotu jest zapoznanie studentów z założeniami programowania obiektowego. Studenci zostaną zapoznani z najważniejszymi mechanizmami programowania obiektowego takimi jak: abstrakcja, inkapsulacja, dziedziczenie i polimorfizm.</opis_ogolny>
+			<opis_szczegolowy>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Założenia programowania obiektowego. Abstrakcja. Klasa. Obiekt</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Pojęcie klasy w odniesieniu do paradygmatów  programowania obiektowego</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Poziomy dostępu do składowych i metod klasy</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Konstruktory, destruktor, operator przypisania</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Modyfikatory składowych i metod (const, static)</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Dziedziczenie</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Wielodziedziczenie</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Metody wirtualne, klasy i metody abstrakcyjne</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Przeciążanie operatorów</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Rzutowanie i konwersja typów</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Obsługa wyjątków</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Biblioteka STL</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/>
+				</opis_szczegolowy_item>				
+				
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Założenia programowania obiektowego. Abstrakcja. Klasa. Obiekt</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Pojęcie klasy w odniesieniu do paradygmatów  programowania obiektowego</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Poziomy dostępu do składowych i metod klasy</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Konstruktory, destruktor, operator przypisania</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Modyfikatory składowych i metod (const, static)</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Dziedziczenie</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Wielodziedziczenie</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Metody wirtualne, klasy i metody abstrakcyjne</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Przeciążanie operatorów</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Rzutowanie i konwersja typów</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Obsługa wyjątków</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Biblioteka STL</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/>
+				</opis_szczegolowy_item>	
+			</opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.2'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='0' ects='0'/>
+			<konsultacje_cwiczenia godziny='15' ects='0.6'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='0' ects='0'/>
+			<kolokwium godziny='30' ects='1.2'/>
+			<zajecia_wyklady godziny='10' ects='0.4'/>
+			<zajecia_cwiczenia godziny='10' ects='0.4'/>
+			<zajecia_projekt godziny='0' ects='0'/>
+		</student>
+	</ects>
+</karta>

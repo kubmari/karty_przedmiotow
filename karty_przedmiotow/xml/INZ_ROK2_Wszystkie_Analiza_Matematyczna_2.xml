@@ -1,0 +1,80 @@
+﻿<karta name='INZ_ROK2_Wszystkie_Analiza_Matematyczna_2' timestamp='20160822221027' version='1' >
+	<ogolne >
+		<kod_przedmiotu >AM2</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Analiza matematyczna 2</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Mathematical analysis 2</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc><specjalnosc_item >Programowanie i bazy danych</specjalnosc_item><specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item><specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Henryk' nazwisko='Hudzik' email='hudzik@amu.edu.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >III</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Konwersatorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item >2 godziny tygodniowo wykładu</sposob_realizacji_zajec_item><sposob_realizacji_zajec_item >2 godziny tygodniowo konwersatorium</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów podstawowych</modul>
+		<jezyk><jezyk_item >polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item >Analiza matematyczna 1.
+</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item >Egzamin</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item >Wykład - dyskusja, pogadanka.</metody_dydaktyczne_item><metody_dydaktyczne_item >Ćwiczenia - praktyczne rozwiązywanie zadań.</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item >Brak.</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa><ksiazka autor='M. Gewert, Z. Skoczylas' tytul='Analiza matematyczna 1. Definicje, twierdzenia, wzory' wydawca='Oficyna Wydawnicza GiS' rok='2001'/><ksiazka autor='2. R. Leitner, W. Matuszewski, Z. Rojek' tytul='Zadania z matematyki wyższej, Część I' wydawca='WNT' rok='2009'/><ksiazka autor='K. Kuratowski' tytul='Rachunek różniczkowy i całkowy. Funkcje jednej zmiennej' wydawca='PWN' rok='1964'/><ksiazka autor='G.M. Fichtenholz' tytul='Rachunek różniczkowy i całkowy, t. I-III' wydawca='PWN' rok='1964'/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca><ksiazka autor='W. Kołodziej' tytul='Analiza matematyczna' wydawca='PWN' rok='1978'/><ksiazka autor='W. Rudin' tytul='Podstawy analizy matematycznej' wydawca='PWN' rok='1969'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<efekty >
+			<wiedza><efekt><efekt_kod >W1</efekt_kod><efekt_opis >Posiada elementarną wiedzę z zakresu rachunku różniczkowego i całkowego funkcji jednej zmiennej
+
+</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W01</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod >U1</efekt_kod><efekt_opis >
+Potrafi zastosować pochodną do badania przebiegu zmienności funkcji oraz obliczać całki oznaczone i nieoznaczone
+
+</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U04</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod >K1</efekt_kod><efekt_opis >Rozumie potrzebę i zna możliwości ciągłego dokształcania się, podnoszenia kompetencji zawodowych i potrafi organizować proces uczenia się</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >K2</efekt_kod><efekt_opis >Potrafi  myśleć  i  działać  w  sposób  kreatywny i przedsiębiorczy.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K02</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Zaliczenie wykładu - egzamin.
+Zaliczenie ćwiczeń - dwa kolokwia zaliczeniowe.
+Zaliczenie przedmiot - średnia ocen z wykładu i ćwiczeń.</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='K1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='K2' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >1. Zapoznanie studentów z rachunkiem różniczkowym funkcji jednej zmiennej.
+2. Zapoznanie studentów z rachunkiem całkowym funkcji jednej zmiennej.
+</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Pochodna funkcji jednej zmiennej, jej interpretacja geometryczna i zastosowania. </opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='16'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='16'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Całka nieoznaczona funkcji jednej zmiennej i jej własności.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+			<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+			<opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+			<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+			</opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Całka oznaczona Riemanna jednej zmiennej, jej własności i zastosowania.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='8'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='8'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.2'/>
+			<konwersatorium godziny='30' ects='1.2'/>
+			<cwiczenia godziny='0' ects='0'/>
+			<konsultacje_wyklad godziny='' ects='0'/>
+			<konsultacje_cwiczenia godziny='10' ects='0.4'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='15' ects='0.6'/>
+			<kolokwium godziny='15' ects='0.6'/>
+			<zajecia_wyklady godziny='10' ects='0.4'/>
+			<zajecia_cwiczenia godziny='15' ects='0.6'/>
+			<zajecia_projekt godziny='0' ects='0'/>
+		</student>
+	</ects>
+</karta>

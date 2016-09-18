@@ -1,0 +1,169 @@
+<karta name='INZ_ROK3_GK_Metapost' timestamp='20160812130250' version='1' >
+	<ogolne >
+		<kod_przedmiotu >MET</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Metapost</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Metapost</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc >
+			<specjalnosc_item >Grafika komputerowa</specjalnosc_item>
+			
+		</specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Robert' nazwisko='Plebaniak' email='robpleb@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >V</semestr_numer>
+			<forma_zajec >
+				
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Ćwiczenia</forma_zajec_item>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</forma_zajec>
+			<sposob_realizacji_zajec >
+				<sposob_realizacji_zajec_item >Wykład w grupach 15-25 osobowych,  2 godziny tygodniowo</sposob_realizacji_zajec_item>
+				
+			<sposob_realizacji_zajec_item >Ćwiczenia w grupach 15-25 osobowych przy komputerach,  2 godziny tygodniowo </sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów specjalizacyjnych do wyboru</modul>
+		<jezyk >
+			<jezyk_item >polski</jezyk_item>
+			
+		</jezyk>
+		<wymagania >
+			<wymagania_item >Wstęp do Latexa</wymagania_item>
+			
+			
+		</wymagania>
+		<sposob_zaliczenia >
+			<sposob_zaliczenia_item >Zaliczenie z oceną</sposob_zaliczenia_item>
+			
+		</sposob_zaliczenia>
+		<metody_dydaktyczne >
+			<metody_dydaktyczne_item >Wykład w formie pogadanki z prezentacją multimedialną</metody_dydaktyczne_item><metody_dydaktyczne_item >metoda zajęć praktycznych </metody_dydaktyczne_item>
+			
+		</metody_dydaktyczne>
+		<przedmioty_powiazane >
+			<przedmioty_powiazane_item >Wstęp do Latexa, Zaawansowane możliwości Latexa.</przedmioty_powiazane_item>
+			
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa >
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			<ksiazka autor='Heck A.' tytul='Tutorial on Metapost' wydawca='AMSTEL Institute' rok='2003'/><ksiazka autor='Marszałkowska J.' tytul='System MetaPost' wydawca='' rok='1997'/><ksiazka autor='Knuth D.E.' tytul='The METAFONT book' wydawca='' rok=''/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca >
+				
+				
+				
+			<ksiazka autor='Hobby J.D.' tytul='A user&apos;s manual for MetaPost' wydawca='' rok=''/><ksiazka autor='Hobby J.D.' tytul='Drawing Graphs in MetaPost' wydawca='' rok=''/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<tresci_przedmiotu >
+			<opis_ogolny >C1. Celem przedmiotu jest zapoznanie z programem METAPOST .
+C2. Zapoznanie studentów procesem włączania grafik MP do dokumentów TeX-owych
+C3. Zapoznanie studentów z programowaniem asymptote.</opis_ogolny>
+			<opis_szczegolowy >
+				
+				
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Instalacja i konfiguracja środowiska Metapost i Latex.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Podstawowe instrukcje Latex&apos;a.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Umieszczanie pliku METAPOST-owego w dokumencie LaTeX-owym, sposoby kompilacji.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Typy danych w METAPOST. Zasady tworzenia krzywych. </opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Instrukcje warunkowe i pętle w METAPOST</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Transformacje w METAPOST
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Tworzenie tabel w METAPOST.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Prezentacje z wykorzystaniem METAPOST</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='1'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Podstawowe instrukcje Latex&apos;a.
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Umieszczanie pliku METAPOST-owego w dokumencie LaTeX-owym, sposoby kompilacji.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Typy danych w METAPOST. Zasady tworzenia krzywych. </opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Instrukcje warunkowe i pętle w METAPOST</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Transformacje w METAPOST.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Tworzenie tabel w METAPOST.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Prezentacje z wykorzystaniem METAPOST</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Prezentacje w pakiecie PDFSCREEN.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Latex2html.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Wprowadzenie do programu Asymptote.
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Przykłady z wykorzystaniem Asymptote</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Ocena Projektów</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+		<efekty >
+			<wiedza >
+				<efekt >
+					<efekt_kod >W1</efekt_kod>
+					<efekt_opis >Ma wiedzę na temat składu dokumentów, grafiki wektorowej oraz zaawansowanego składu dokumentów matematycznych.</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_W10</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+				
+			<efekt><efekt_kod >W2</efekt_kod><efekt_opis >Zna podstawowe metody, techniki, narzędzia i materiały stosowane przy rozwiązywaniu prostych zadań inżynierskich z zakresu studiowanego kierunku.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W03</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >W3</efekt_kod><efekt_opis >Ma uporządkowaną wiedzę teoretyczną i praktyczną z zakresu wykorzystania grafiki wektorowej w dokumentach naukowych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W10</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci >
+				<efekt >
+					<efekt_kod >U1</efekt_kod>
+					<efekt_opis >Potrafi wykorzystać poznane techniki do tworzenia skomplikowanych  konstrukcji geometrycznych
+</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_U05</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			<efekt><efekt_kod >U2</efekt_kod><efekt_opis >Potrafi tworzy prezentacje z wykorzystaniem elementów grafiki wektorowej
+</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W08</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje >
+				<efekt >
+					<efekt_kod >K1</efekt_kod>
+					<efekt_opis >Posiada usystematyzowaną i podbudowaną teoretycznie wiedzę z zakresu grafiki komputerowej dwu i trójwymiarowej, w tym matematycznych i fizycznych podstaw grafiki</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_K01</efekt_kierunkowy><efekt_kierunkowy >I1P_K02</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			</kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Ocena na podstawie projektów oddanych przez studentów.</metody_oceny_opis>
+			<metody_oceny_szczegoly >
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='W2'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='W3'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='U1'/>
+				
+				
+				
+				
+				
+			<metody_oceny_szczegoly_item metoda='P' kod_efektu='U2' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='K1' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='15' ects='0.6'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='15' ects='0.6'/>
+			<konsultacje_cwiczenia godziny='20' ects='0.8'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='0' ects='0'/>
+			<kolokwium godziny='0' ects='0'/>
+			<zajecia_wyklady godziny='11' ects='0.4'/>
+			<zajecia_cwiczenia godziny='15' ects='0.6'/>
+			<zajecia_projekt godziny='20' ects='0.8'/>
+		</student>
+	</ects>
+</karta>

@@ -1,0 +1,74 @@
+<karta name='INZ_ROK4_Wszystkie_Inzynierski_Projekt_Zespolowy_2' timestamp='20160627125831' version='1' >
+	<ogolne >
+		<kod_przedmiotu >IPZ2</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Inżynierski projekt zespołowy 2</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Engineering team project 2</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc><specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item><specjalnosc_item >Programowanie i bazy danych</specjalnosc_item><specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Sebastian' nazwisko='Wojczyk' email=''/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr letni</semestr_nazwa>
+			<semestr_numer >VII</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Laboratorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item >Zajęcia praktyczne w grupach 15-20 osobowych - 2 godziny tygodniowo przez cały semestr.</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów inżynierskich</modul>
+		<jezyk><jezyk_item >polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item >Umiejętność programowania w dowolnym języku strukturalnym lub obiektowym.</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item >Zaliczenie z oceną</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item >Dyskusja.</metody_dydaktyczne_item><metody_dydaktyczne_item >Praca w grupach.</metody_dydaktyczne_item><metody_dydaktyczne_item >Zajęcia praktyczne przy komputerze.</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item >Brak.</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa><ksiazka autor='Martin Fowler, Kendall Scott ; przeł. Wojciech Wyglądała' tytul='UML w kropelce' wydawca='' rok='2002'/><ksiazka autor='K. Subieta' tytul='Wprowadzenie do inżynierii oprogramowania' wydawca='' rok='2002'/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca><ksiazka autor='Martin Fowler' tytul='Refaktoryzacja. Ulepszanie struktury istniejącego kodu' wydawca='' rok=''/><ksiazka autor='Włodzimierz Gajda' tytul='Git. Rozproszony system kontroli wersji' wydawca='' rok='2013'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<efekty >
+			<wiedza><efekt><efekt_kod >W1</efekt_kod><efekt_opis >Student zna zagadnienia związane z refaktoryzacją i systemami kontroli wersji.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W14</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod >U1</efekt_kod><efekt_opis >Student potrafi korzystać z podstawowych funkcji systemów kontroli wersji.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U13</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U2</efekt_kod><efekt_opis >Student potrafi rozbudować zastaną aplikację o nowe funkcje.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U08</efekt_kierunkowy><efekt_kierunkowy >I1P_U09</efekt_kierunkowy><efekt_kierunkowy >I1P_U10</efekt_kierunkowy><efekt_kierunkowy >I1P_U14</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod >K1</efekt_kod><efekt_opis >Student potrafi pracować w grupie.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K03</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Laboratorium:
+Wszystkie elementy zaliczenia związane są z rozbudową przykładowej zastanej aplikacji. Oceniane zadania:
+- wykorzystanie dowolnego systemu kontroli wersji (W1),
+- zastosowanie wybranych przekształceń refaktoryzacyjnych (W1,U1),
+- rozbudowa zastanej aplikacji o nowe funkcje (U2, K1),
+
+Ocena końcowa:
+Ocena końcowa będzie oceną średnią z trzech wymienionych powyżej zadań.</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda='P' kod_efektu='W1'/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U1'/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U2'/><metody_oceny_szczegoly_item metoda='P' kod_efektu='K1' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >Zapoznanie studenta z praktycznymi zagadnieniami związanymi z procesem tworzenia oprogramowania.
+Realizacja projektu informatycznego od ,,pomysłu&apos;&apos; do ,,gotowego produktu&apos;&apos;.</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Refaktoryzacja.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Systemy kontroli wersji.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Rozbudowa oprogramowania; analiza stanu zastanego, projekt rozbudowy, implementacja.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='22'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='' ects=''/>
+			<konwersatorium godziny='' ects=''/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='' ects=''/>
+			<konsultacje_cwiczenia godziny='45' ects='1.8'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='' ects=''/>
+			<kolokwium godziny='' ects=''/>
+			<zajecia_wyklady godziny='' ects=''/>
+			<zajecia_cwiczenia godziny='' ects=''/>
+			<zajecia_projekt godziny='75' ects='3.0'/>
+		</student>
+	</ects>
+</karta>

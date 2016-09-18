@@ -1,0 +1,77 @@
+<karta name="ROK1_Wszyscy_Lingwistyka_Matematyczna"  timestamp="20160823094218" version="1">
+	<ogolne >
+		<kod_przedmiotu >LM</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Lingwistyka_matematyczna</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Mathematical linguistics</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc><specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item><specjalnosc_item >Programowanie i bazy danych</specjalnosc_item><specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Szymański' nazwisko='Jerzy' email='jesz@amu.edu.pl '/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr letni</semestr_nazwa>
+			<semestr_numer >II</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Laboratorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item >Wykłady i ćwicenia przy komputerze</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów kierunkowych</modul>
+		<jezyk><jezyk_item >polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item >Brak</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item >Zaliczenie z oceną</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item >Wykład</metody_dydaktyczne_item><metody_dydaktyczne_item >Dyskusja</metody_dydaktyczne_item><metody_dydaktyczne_item >Prezentacja</metody_dydaktyczne_item><metody_dydaktyczne_item >Ćwiczenia praktyczne</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item >Brak
+</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa><ksiazka autor='Gazdar, Melish' tytul='Natural language processing in Prolog: an introduction to computational linguistics' wydawca='' rok=''/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca><ksiazka autor='Jurafsky Martin' tytul='Speech and Language Processing' wydawca='' rok=''/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<efekty >
+			<wiedza><efekt><efekt_kod >W1</efekt_kod><efekt_opis >Zna i potrafi stosować  różne strategie parsing</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W06</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >W2</efekt_kod><efekt_opis >Zna główne paradygmaty tłumaczenia automatycznego</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W12</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >W3</efekt_kod><efekt_opis >Zna pojęcie analizy semantycznej</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W12</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod >U1</efekt_kod><efekt_opis >Umie rozwiązywać  problemy sztucznej inteligencji za pomocą języków programowania</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U14</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U2</efekt_kod><efekt_opis >Umie korzystać  z analizatorów morfologicznych</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U14</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U3</efekt_kod><efekt_opis >Potrafi samodzielnie stworzyć  oryginalne narzędzie przetwarzania języka naturalnego</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U14</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod >K1</efekt_kod><efekt_opis >Dostrzega przydatność technologii informatycznych wżyciu codziennym</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K07</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Egzamin pisemny i punktacja z laboratoriów</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W2' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W3' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='U2' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='U3' uwaga=''/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='K1' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='W2' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='W3' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U2' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U3' uwaga=''/><metody_oceny_szczegoly_item metoda='P' kod_efektu='K1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='W1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='W2' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='W3' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U1' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U2' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='U3' uwaga=''/><metody_oceny_szczegoly_item metoda='K' kod_efektu='K1' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >Celem przedmiotu jest przedstawienie informatycznych metod przetwarzania języka naturalnego, w tym: tłumaczenia automatycznego, odpowiadania na pytania, wirtualnych asystentów, automatycznego tworzenia słowników oraz ekstrakcja informacji z tekstów zapisanych w języku naturalnym.</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Analiza języka naturalnego w językach programowania</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='6'/></opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Automatyczna analiza morfologiczna i składniowa
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='6'/></opis_szczegolowy_item>
+
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Systemy odpowiadania na pytania
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='6'/></opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Tłumaczenie automatyczne
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='6'/></opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Analiza semantyczna
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='6'/></opis_szczegolowy_item>
+</opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1'/>
+			<konsultacje_wyklad godziny='0' ects='0'/>
+			<konsultacje_cwiczenia godziny='0' ects='0'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='10' ects='0.4'/>
+			<kolokwium godziny='10' ects='0.3'/>
+			<zajecia_wyklady godziny='0' ects='0'/>
+			<zajecia_cwiczenia godziny='0' ects='0'/>
+			<zajecia_projekt godziny='10' ects='0.3'/>
+		</student>
+	</ects>
+</karta>

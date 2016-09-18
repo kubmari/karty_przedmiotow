@@ -1,0 +1,175 @@
+<karta name='INZ_ROK1_Wszystkie_Algebra_Liniowa_z_Geometria' timestamp='20160629125639' version='1' >
+	<ogolne >
+		<kod_przedmiotu >ALG</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Algebra liniowa z geometrią</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Linear algebra </nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc >
+			<specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item>
+			<specjalnosc_item >Programowanie i bazy danych</specjalnosc_item>
+		<specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Rafał' nazwisko='Kamocki' email='rafkam@math.uni.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >I</semestr_numer>
+			<forma_zajec >
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Konwersatorium</forma_zajec_item>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec >
+				<sposob_realizacji_zajec_item >Wykład dla całego kierunku 30 godzin w semestrze;</sposob_realizacji_zajec_item>
+				
+			<sposob_realizacji_zajec_item >Ćwiczenia -  zajęcia w grupach 25-30 osobowych 30 godzin w semestrze; </sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów podstawowych</modul>
+		<jezyk >
+			<jezyk_item >polski</jezyk_item>
+			
+		</jezyk>
+		<wymagania >
+			<wymagania_item >Wiadomości szkolne z algebry</wymagania_item>
+			
+			
+		</wymagania>
+		<sposob_zaliczenia >
+			<sposob_zaliczenia_item >Egzamin</sposob_zaliczenia_item>
+			
+		</sposob_zaliczenia>
+		<metody_dydaktyczne >
+			<metody_dydaktyczne_item >Wykład z analizą tekstu przy pomocy specjalnie skonstruowanych przykładów pobudzających do samodzielnych wniosków.</metody_dydaktyczne_item>
+			<metody_dydaktyczne_item >Konwersatorium – dyskusja, zadania do rozwiązania.</metody_dydaktyczne_item>
+		</metody_dydaktyczne>
+		<przedmioty_powiazane >
+			<przedmioty_powiazane_item >Moduł przedmiotów podstawowych</przedmioty_powiazane_item>
+			
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa >
+				<ksiazka autor='Tomasz Włodarski' tytul='Algebra liniowa i programowanie liniowe' wydawca='OFICYNA WYDAWNICZA MA' rok='2011'/>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca >
+				
+				
+				
+			<ksiazka autor='M. Filipczak' tytul='Wykłady z algebry ' wydawca='PWN' rok='2009'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<tresci_przedmiotu >
+			<opis_ogolny >1) Znajomość teorii macierzy i umiejętność stosowania jej w praktycznych zadaniach
+2) Znajomość teorii układów równań liniowych i umiejętność jej stosowania w różnych typach zadań 
+3) Znajomość teorii przestrzeni  liniowych  i umiejętność jej stosowania w różnych typach zadań </opis_ogolny>
+			<opis_szczegolowy >
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Przestrzeń i podprzestrzeń liniowa, baza, wymiar przestrzeni, wektory liniowo zależne i niezależne </opis_szczegolowy_item_temat>
+					
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Algebra macierzy</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='12'/>
+				</opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Układy równań liniowych (metoda eliminacji Gaussa)</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='12'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Przestrzeń i podprzestrzeń liniowa, baza, wymiar przestrzeni, wektory liniowo zależne i niezależne </opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Algebra macierzy</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='12'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Układy równań liniowych (metoda eliminacji Gaussa)</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='12'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+		<efekty >
+			<wiedza >
+				<efekt >
+					<efekt_kod >W1</efekt_kod>
+					<efekt_opis >Student ma usystematyzowaną wiedzę z zakresu algebry liniowej i geometrii</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_W01</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+				
+			</wiedza>
+			<umiejetnosci >
+				<efekt >
+					<efekt_kod >U1</efekt_kod>
+					<efekt_opis >Student umie obliczać wyznaczniki, rzędy macierzy, macierz odwrotną oraz stosować podstawowe działania na macierzach.</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_U04</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			<efekt><efekt_kod >U2</efekt_kod><efekt_opis >Student umie rozwiązywać układy równań  liniowych, posługiwać się pojęciem przestrzeni i podprzestrzeni liniowej, sprawdzać liniową niezależność wektorów </efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U04</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje >
+				
+			<efekt><efekt_kod >K1</efekt_kod><efekt_opis >Student zna ograniczenie własnej wiedzy i rozumie potrzebę dalszego kształcenia
+</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >K2</efekt_kod><efekt_opis >Student potrafi myśleć i działać w sposób kreatywny</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K02</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Ocena końcowa:  ocena końcowa z przedmiotu  to średnia arytmetyczna ocen z pisemnego kolokwium i egzaminu. Szczegółowy opis ocen końcowych zamieszczony jest w poniższej tabelce.</metody_oceny_opis>
+			<metody_oceny_szczegoly >
+				<metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='EP' kod_efektu='U1'/>
+				<metody_oceny_szczegoly_item metoda='EP' kod_efektu='U2'/>
+				<metody_oceny_szczegoly_item metoda='EP' kod_efektu='K1'/>
+				<metody_oceny_szczegoly_item metoda='EP' kod_efektu='K2'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U1'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U2'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='K1'/>
+			<metody_oceny_szczegoly_item metoda='K' kod_efektu='K2' uwaga=''/></metody_oceny_szczegoly>
+		</metody_oceny>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.2'/>
+			<konwersatorium godziny='30' ects='1.2'/>
+			<cwiczenia godziny='0' ects='0'/>
+			<konsultacje_wyklad godziny='5' ects='0.2'/>
+			<konsultacje_cwiczenia godziny='5' ects='0.2'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='20' ects='0.8'/>
+			<kolokwium godziny='15' ects='0.6'/>
+			<zajecia_wyklady godziny='10' ects='0.4'/>
+			<zajecia_cwiczenia godziny='10' ects='0.4'/>
+			<zajecia_projekt godziny='0' ects='0'/>
+		</student>
+	</ects>
+</karta>

@@ -1,0 +1,186 @@
+<karta name='INZ_ROK1_Wszystkie_Repetytorium_z_Matematyki_Elementarnej' timestamp='20160629004310' version='1' >
+	<ogolne >
+		<kod_przedmiotu >RAM</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Repetytorium matematyki elementarnej</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Elementary mathematics revision</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc >
+			<specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item>
+			<specjalnosc_item >Programowanie i bazy danych</specjalnosc_item>
+		<specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Aleksandra' nazwisko='Tomaszewska' email='tomaszewska.pwszplock@gmail.com'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr zimowy</semestr_nazwa>
+			<semestr_numer >I</semestr_numer>
+			<forma_zajec >
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='60' >Konwersatorium</forma_zajec_item>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</forma_zajec>
+			<sposob_realizacji_zajec >
+				<sposob_realizacji_zajec_item >Zajęcia w grupach około 40 osobowych, dwa razy po 2 godziny tygodniowo</sposob_realizacji_zajec_item>
+				
+			</sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów podstawowych</modul>
+		<jezyk >
+			<jezyk_item >polski</jezyk_item>
+			
+		</jezyk>
+		<wymagania >
+			<wymagania_item >Brak</wymagania_item>
+			
+			
+		</wymagania>
+		<sposob_zaliczenia >
+			<sposob_zaliczenia_item >Zaliczenie z oceną</sposob_zaliczenia_item>
+			
+		</sposob_zaliczenia>
+		<metody_dydaktyczne >
+			<metody_dydaktyczne_item >pogadanki, wykład, dyskusja</metody_dydaktyczne_item>
+			<metody_dydaktyczne_item >wykorzystywanie prezentacji multimedialnej</metody_dydaktyczne_item>
+		<metody_dydaktyczne_item >rozwiązywanie zadań</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane >
+			<przedmioty_powiazane_item >Moduł przedmiotów podstawowych
+</przedmioty_powiazane_item>
+			
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa >
+				<ksiazka autor='R. Kowalczyk, K. Niedziałowski, C. Obczyński' tytul='Matematyka dla studentów i kandydatów na wyższe uczelnie. Repetytorium' wydawca='PWN' rok='2012'/>
+				
+				
+				<ksiazka autor='W. Krysicki, L. Włodarski' tytul='Analiza  matematyczna w zadaniach cz.1' wydawca='PWN' rok='1994'/>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca >
+				<ksiazka autor='J. Kłopotowski, W. Marcinkowska-Kłopotowska, M. Nykowska, I. Nykowski' tytul='Matematyka dla ekonomicznych studiów zaocznych i wieczorowych' wydawca='SGH' rok='1999'/>
+				
+				
+			<ksiazka autor='M. Gewert, Z. Skoczylas' tytul='Analiza matematyczna 1 Przykłady i zadania' wydawca='Oficyna Wydawnicza GIS' rok='2005'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<tresci_przedmiotu >
+			<opis_ogolny >1. Zapoznanie studentów z podstawami logiki.
+2. Zapoznanie studentów wyrażeniami algebraicznymi i działaniami na nich.
+3. Zapoznanie studentów z funkcjami elementarnymi, ich własnościami i sposobami rozwiązywania równań.</opis_ogolny>
+			<opis_szczegolowy >
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Podstawy logiki</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/>
+					
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt>
+						
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Działania na potęgach i pierwiastkach</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/>
+				</opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Wyrażenia algebraiczne</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Funkcja rzeczywista i jej własności funkcji</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='8'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U02</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Funkcja liniowa</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Funkcja kwadratowa</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U02</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Równania i nierówności kwadratowe</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Pojęcie wielomianu. Funkcja wielomianowa</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U02</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Równania i nierówności wielomianowe</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Funkcja wymierna i homograficzna</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U02</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Równania i nierówności wymierne</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty>
+			<opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt>
+			<opis_szczegolowy_item_efekty_efekt >K01</opis_szczegolowy_item_efekty_efekt>
+			<opis_szczegolowy_item_efekty_efekt >U01</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Funkcja potęgowa i niewymierna
+</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W01</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U02</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Równania i nierówności potęgowe i niewymierne</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='konwersatorium' godziny='2'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+		<efekty >
+			<wiedza >
+				<efekt >
+					<efekt_kod >W01</efekt_kod>
+					<efekt_opis >Student zna podstawowe prawa logiki,  funkcje elementarne i ich własności.</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_W01</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+				
+			</wiedza>
+			<umiejetnosci >
+				<efekt >
+					<efekt_kod >U01</efekt_kod>
+					<efekt_opis >Student potrafi rysować wykresy funkcji elementarnych, przekształcać je i określać własności tych funkcji.</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_U04</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			<efekt><efekt_kod >U02</efekt_kod><efekt_opis >Student potrafi rozwiązywać równania, nierówności dotyczące poszczególnych funkcji elementarnych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U04</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje >
+				<efekt >
+					<efekt_kod >K01</efekt_kod>
+					<efekt_opis >Student rozumie potrzebę ciągłego dokształcania się, podnoszenia kompetencji zawodowych i potrafi organizować proces uczenia się.</efekt_opis>
+					<efekty_kierunkowe >
+						
+						
+					<efekt_kierunkowy >I1P_K01</efekt_kierunkowy></efekty_kierunkowe>
+				</efekt>
+			</kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >1. Zapoznanie studentów z podstawami logiki.
+2. Zapoznanie studentów wyrażeniami algebraicznymi i działaniami na nich.
+3. Zapoznanie studentów z funkcjami elementarnymi, ich własnościami i sposobami rozwiązywania równań.</metody_oceny_opis>
+			<metody_oceny_szczegoly >
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='W01'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U01'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='U02'/>
+				<metody_oceny_szczegoly_item metoda='K' kod_efektu='K01'/>
+				
+				
+				
+				
+				
+			</metody_oceny_szczegoly>
+		</metody_oceny>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='0' ects='0'/>
+			<konwersatorium godziny='60' ects='2.4'/>
+			<cwiczenia godziny='0' ects='0'/>
+			<konsultacje_wyklad godziny='0' ects='0'/>
+			<konsultacje_cwiczenia godziny='10' ects='0.4'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='0' ects='0'/>
+			<kolokwium godziny='25' ects='1'/>
+			<zajecia_wyklady godziny='0' ects='0'/>
+			<zajecia_cwiczenia godziny='5' ects='0.2'/>
+			<zajecia_projekt godziny='0' ects='0'/>
+		</student>
+	</ects>
+</karta>

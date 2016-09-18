@@ -1,0 +1,69 @@
+<karta name="INZ_ROK3_PiBD_Programowanie_Aplikacji_Bazodanowych" timestamp="20160821224822" version="1">
+	<ogolne>
+		<kod_przedmiotu>PAD</kod_przedmiotu>
+		<nazwa_przedmiotu>
+			<nazwa_przedmiotu_item jezyk="pl">Programowanie aplikacji bazodanowych</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk="en">Programming of database applications</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek>Informatyka</kierunek>
+		<forma>Stacjonarne</forma>
+		<poziom>Studia I stopnia inżynierskie</poziom>
+		<profil>Praktyczny</profil>
+		<specjalnosc><specjalnosc_item>Programowanie i bazy danych</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna>Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie="Sebastian" nazwisko="Wojczyk" email=""/>
+		<miejsce_zajec>Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr>
+			<semestr_nazwa>Semestr zimowy</semestr_nazwa>
+			<semestr_numer>V</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu="semestr" ilosc_godzin="30">Wykład</forma_zajec_item><forma_zajec_item przedzial_czasu="semestr" ilosc_godzin="30">Laboratorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item>2 godziny tygodniowo wykładu (15 tyg.)</sposob_realizacji_zajec_item><sposob_realizacji_zajec_item>2 godziny tygodniowo laboratorium (15 tyg.)</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul>Moduł przedmiotów specjalizacyjnych</modul>
+		<jezyk><jezyk_item>polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item>Brak</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item>Egzamin</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item>Wykład</metody_dydaktyczne_item><metody_dydaktyczne_item>Ćwiczenia przy komputerze</metody_dydaktyczne_item><metody_dydaktyczne_item>Zadania do rozwiązania</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item>Brak.</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia>
+			<bibliografia_podstawowa><ksiazka autor="Grochala M." tytul="Java aplikacje bazodanowe. Wydanie II" wydawca="Helion" rok="2001"/><ksiazka autor="Matulewski J., Grabek M., Pakulski M., Borycki D." tytul="ASP.NET Web Forms. Kompletny przewodnik dla programistów interaktywnych aplikacji internetowych w Visual Studio" wydawca="Helion" rok="2014"/><ksiazka autor="Geiger K." tytul="Inside ODBC" wydawca="Helion" rok="1995"/><ksiazka autor="Halpin T." tytul="Object-Role Modeling Fundamentals: A Practical Guide to Data Modeling with ORM" wydawca="" rok="2015"/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca/>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly>
+		<efekty>
+			<wiedza><efekt><efekt_kod>W1</efekt_kod><efekt_opis>Ma uporządkowaną wiedzę z zakresu mechanizmów dostępu do baz danych: ODBC i ORM.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy>I1P_P_W01</efekt_kierunkowy><efekt_kierunkowy>I1P_P_W02</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod>U1</efekt_kod><efekt_opis>Potrafi komunikować się z bazą danych z poziomu języka programowania.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy>I1P_U18</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod>U2</efekt_kod><efekt_opis>Potrafi przygotować standardową aplikację do zarządzania danymi zgromadzonymi w bazie danych – operacje CRUD (Create Read Update Delete).</efekt_opis><efekty_kierunkowe><efekt_kierunkowy>I1P_U18</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod>K1</efekt_kod><efekt_opis>Dostrzega zagrożeniom związane z wykorzystaniem baz danych w programowaniu.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy>I1P_P_K02</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny>
+			<metody_oceny_opis>Wykład: egzamin.
+
+Laboratorium: kolokwium zaliczeniowe przy komputerze.
+</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda="EP" kod_efektu="W1" uwaga=""/><metody_oceny_szczegoly_item metoda="EP" kod_efektu="K1" uwaga=""/><metody_oceny_szczegoly_item metoda="K" kod_efektu="U1" uwaga=""/><metody_oceny_szczegoly_item metoda="K" kod_efektu="U2" uwaga=""/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu>
+			<opis_ogolny>Celem przedmiotu jest zapoznanie studentów z przygotowaniem aplikacji bazodanowej.</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat>Aplikacje bazodanowe - wstęp.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="2"/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat>Projektowanie i tworzenie formatek służących do operacji ba bazie danych.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="6"/><opis_szczegolowy_item_forma_godziny forma="laboratorium" godziny="4"/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat>Mechanizmy wspomagające programowanie po stronie bazy danych – widoki, wyzwalacze, funkcje.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="6"/><opis_szczegolowy_item_forma_godziny forma="laboratorium" godziny="4"/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat>Standard ODBC.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="4"/><opis_szczegolowy_item_forma_godziny forma="laboratorium" godziny="8"/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat>Mapowanie relacyjno-obiektowe – różne implementacje.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="6"/><opis_szczegolowy_item_forma_godziny forma="laboratorium" godziny="8"/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat>Obsługa błędów.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="2"/><opis_szczegolowy_item_forma_godziny forma="laboratorium" godziny="2"/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat>Bezpieczeństwo aplikacji bazodanowych.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="4"/><opis_szczegolowy_item_forma_godziny forma="laboratorium" godziny="4"/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects>
+		<wykladowca>
+			<wyklad godziny="30" ects="1.25"/>
+			<konwersatorium godziny="" ects=""/>
+			<cwiczenia godziny="30" ects="1.25"/>
+			<konsultacje_wyklad godziny="5" ects="0.2"/>
+			<konsultacje_cwiczenia godziny="5" ects="0.2"/>
+		</wykladowca>
+		<student>
+			<egzamin godziny="20" ects="0.85"/>
+			<kolokwium godziny="20" ects="0.85"/>
+			<zajecia_wyklady godziny="5" ects="0.2"/>
+			<zajecia_cwiczenia godziny="5" ects="0.2"/>
+			<zajecia_projekt godziny="" ects=""/>
+		</student>
+	</ects>
+</karta>

@@ -1,0 +1,344 @@
+<karta name="INZ_ROK1_Wszystkie_Programowanie_Podstawowe" timestamp="20160821214726" version="1">
+	<ogolne>
+		<kod_przedmiotu>PC1</kod_przedmiotu>
+		<nazwa_przedmiotu>
+			<nazwa_przedmiotu_item jezyk="pl">Programowanie podstawowe</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk="en">Procedural programming</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek>Informatyka</kierunek>
+		<forma>Stacjonarne</forma>
+		<poziom>Studia I stopnia inżynierskie</poziom>
+		<profil>Praktyczny</profil>
+		<specjalnosc>
+			<specjalnosc_item>Programowanie i bazy danych</specjalnosc_item>
+			<specjalnosc_item>Grafika komputerowa</specjalnosc_item>
+			<specjalnosc_item>Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item>
+		</specjalnosc>
+		<jednostka_organizacyjna>Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie="Dariusz" nazwisko="Wardowski" email="wardd@math.uni.lodz.pl"/>
+		<miejsce_zajec>Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr>
+			<semestr_nazwa>Semestr letni</semestr_nazwa>
+			<semestr_numer>II</semestr_numer>
+			<forma_zajec>
+				<forma_zajec_item przedzial_czasu="semestr" ilosc_godzin="15">Wykład</forma_zajec_item>
+				<forma_zajec_item przedzial_czasu="semestr" ilosc_godzin="30">Ćwiczenia</forma_zajec_item>
+			</forma_zajec>
+			<sposob_realizacji_zajec>
+				<sposob_realizacji_zajec_item>Zajęcia laboratoryjne w grupach 20 - 25 osobowych,  2 godziny tygodniowo wykładu (8 tyg.) + 2 godz. ćwiczeń laboratoryjnych (15 tyg.).</sposob_realizacji_zajec_item>
+			</sposob_realizacji_zajec>
+		</semestr>
+		<modul>Moduł przedmiotów kierunkowych</modul>
+		<jezyk>
+			<jezyk_item>polski</jezyk_item>
+		</jezyk>
+		<wymagania>
+			<wymagania_item>Podstawowa wiedza i umiejętności z zakresu podstaw programowania</wymagania_item>
+		</wymagania>
+		<sposob_zaliczenia>
+			<sposob_zaliczenia_item>Laboratorium – 1 kolokwium. Wykład – zaliczenie zagadnień omawianych na wykładzie</sposob_zaliczenia_item>
+		</sposob_zaliczenia>
+		<metody_dydaktyczne>
+			<metody_dydaktyczne_item>Wykład prowadzony z prezentacją multimedialną wraz z prezentacją kodu w stosownym języku programowania (C++) realizujący paradygmat programowania strukturalnego</metody_dydaktyczne_item>
+			<metody_dydaktyczne_item>Zajęcia laboratoryjne przy komputerach, zajęcia praktyczne (realizacja krótkich aplikacji prezentujących omawiane na wykładzie mechanizmy programowania strukturalnego)</metody_dydaktyczne_item>
+		</metody_dydaktyczne>
+		<przedmioty_powiazane>
+			<przedmioty_powiazane_item>Podstawy programowania</przedmioty_powiazane_item>
+			<przedmioty_powiazane_item>Moduł przedmiotów kierunkowych</przedmioty_powiazane_item>
+		</przedmioty_powiazane>
+		<bibliografia>
+			<bibliografia_podstawowa>
+				<ksiazka autor="Radosław Sokół" tytul="Wstęp do programowania w języku C++ : kompletny kurs języka C++ dla początkujących" wydawca="Helion" rok="2005"/>
+				<ksiazka autor="S. Prata" tytul="Język C++: Szkoła Programowania" wydawca="Robomatic" rok="2002"/>
+				<ksiazka autor="Larry Ullman, Andreas Signer ; [tł. Przemysław Szeremiota, Andrzej Zawadzki]" tytul="Programowanie w języku C++ " wydawca="Helion" rok="2007"/>
+			</bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca>
+				<ksiazka autor="Herb Sutter, Andrei Alexandrescu ; [tł. Przemysław Szeremiota]" tytul="Język C++ : standardy kodowania : 101 zasad, wytycznych i zalecanych praktyk " wydawca="Helion" rok="2005"/>
+			</bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+
+	<szczegoly>
+		<efekty>
+			<wiedza>
+				<efekt>
+					<efekt_kod>W1</efekt_kod>
+					<efekt_opis>zna podstawowe zagadnienia dotyczące paradygmatu programowania strukturalnego</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy>I1P_W04</efekt_kierunkowy>
+						<efekt_kierunkowy>I1P_W05</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+				<efekt>
+					<efekt_kod>W2</efekt_kod>
+					<efekt_opis>zna podstawowe instrukcje sterujące języka C++
+					</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy>I1P_W04</efekt_kierunkowy>
+						<efekt_kierunkowy>I1P_W05</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+			</wiedza>
+			<umiejetnosci>
+				<efekt>
+					<efekt_kod>U1</efekt_kod>
+					<efekt_opis>analizuje problemy i potrafi zaimplementować ich rozwiązania w postaci programów komputerowych przy użyciu znanych mechanizmów programowania strukturalnego w języku C++</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy>I1P_U06</efekt_kierunkowy>
+						<efekt_kierunkowy>I1P_U07</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+				<efekt>
+					<efekt_kod>U2</efekt_kod>
+					<efekt_opis>potrafi pisać proste programy obrazujące podstawowe mechanizmy programowania strukturalnego</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy>I1P_U06</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+			</umiejetnosci>
+			<kompetencje>
+				<efekt>
+					<efekt_kod>K1</efekt_kod>
+					<efekt_opis>potrafi pracować w sposób kreatywny. Potrafi dostosować odpowiednie narzędzie do przedstawionego problemu</efekt_opis>
+					<efekty_kierunkowe>
+						<efekt_kierunkowy>I1P_K02</efekt_kierunkowy>
+						<efekt_kierunkowy>I1P_K07</efekt_kierunkowy>
+					</efekty_kierunkowe>
+				</efekt>
+			</kompetencje>
+		</efekty>
+		<metody_oceny>
+			<metody_oceny_opis>Ocena końcowa: Ocena z przedmiotu to średnia ocen z zaliczenia laboratorium (przy komputerze) i zaliczenia zagadnień teoretycznych na wykładzie. Zaliczenia będą składały się z grup zadań, z których każda będzie sprawdzała co najmniej jeden z efektów kształcenia: W1, W2, U1, U2, K1. Kolokwium będzie zaliczone, jeżeli student z każdego efektu uzyska ocenę pozytywną</metody_oceny_opis>
+			<metody_oceny_szczegoly>
+				<metody_oceny_szczegoly_item metoda="EP" kod_efektu="W1"/>
+				<metody_oceny_szczegoly_item metoda="EP" kod_efektu="W2"/>
+				<metody_oceny_szczegoly_item metoda="K" kod_efektu="U1"/>
+				<metody_oceny_szczegoly_item metoda="K" kod_efektu="U2"/>
+				<metody_oceny_szczegoly_item metoda="K" kod_efektu="K1"/>
+			</metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu>
+			<opis_ogolny>Zapoznanie studentów z zaawansowanymi możliwościami języka programowania wysokiego poziomu C++ będącym jednym z najpopularniejszych języków programowania. Przedmiot prowadzony będzie w aspekcie strukturalnego paradygmatu programowania.</opis_ogolny>
+			<opis_szczegolowy>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Założenia programowania strukturalnego.
+Mechanika tworzenia programu, kompilatory, standardy programowania, funkcja main, komentowanie kodu, dyrektywy preprocesora, pliki nagłówkowe, biblioteka iostream, obiekty cout, cin</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="1"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Wbudowane typy języka C++, funkcje i prototypy, stałe, operatory arytmetyczne, konwersja i rzutowanie typów, przegląd typów złożonych: tablice, łańcuchy, struktury, typy wskaźnikowe</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Przechowywanie danych w pamięci, operator adresu &amp;, operator wyłuskania *, deklaracja i definicja wskaźników, operatory new i delete, tworzenie tablic w sposób dynamiczny, arytmetyka wskaźnikowa, struktury dynamiczne</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Pętle, wyrażenia i operatory</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="1"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Instrukcje rozgałęziające i operatory logiczne</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="1"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Przekazywanie tablic do funkcji, nazwa tablicy jako wskaźnik, operator sizeof, argumenty funkcji ze słowem const, wskaźniki a słowo kluczowe const</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Sposoby przekazywania argumentów (typów wbudowanych, struktur, tablic) do funkcji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="1"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Mechanizm rekurencji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="1"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Funkcje i tablice dwuwymiarowe</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="1"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Wskaźniki do funkcji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="1"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Przeciążanie funkcji, operatorów, szablony funkcji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="wyklad" godziny="2"/>
+				</opis_szczegolowy_item>
+				
+								<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Założenia programowania strukturalnego.
+Mechanika tworzenia programu, kompilatory, standardy programowania, funkcja main, komentowanie kodu, dyrektywy preprocesora, pliki nagłówkowe, biblioteka iostream, obiekty cout, cin</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Wbudowane typy języka C++, funkcje i prototypy, stałe, operatory arytmetyczne, konwersja i rzutowanie typów, przegląd typów złożonych: tablice, łańcuchy, struktury, typy wskaźnikowe</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="4"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Przechowywanie danych w pamięci, operator adresu &amp;, operator wyłuskania *, deklaracja i definicja wskaźników, operatory new i delete, tworzenie tablic w sposób dynamiczny, arytmetyka wskaźnikowa, struktury dynamiczne</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="4"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Pętle, wyrażenia i operatory</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Instrukcje rozgałęziające i operatory logiczne</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Przekazywanie tablic do funkcji, nazwa tablicy jako wskaźnik, operator sizeof, argumenty funkcji ze słowem const, wskaźniki a słowo kluczowe const</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="4"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Sposoby przekazywania argumentów (typów wbudowanych, struktur, tablic) do funkcji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Mechanizm rekurencji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Funkcje i tablice dwuwymiarowe</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Wskaźniki do funkcji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="2"/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item>
+					<opis_szczegolowy_item_efekty>
+						<opis_szczegolowy_item_efekty_efekt>W2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>U1</opis_szczegolowy_item_efekty_efekt>						<opis_szczegolowy_item_efekty_efekt>U2</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt>K1</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat>Przeciążanie funkcji, operatorów, szablony funkcji</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma="cwiczenia" godziny="4"/>
+				</opis_szczegolowy_item>
+			</opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+
+	<ects>
+		<wykladowca>
+			<wyklad godziny="15" ects="0.6"/>
+			<konwersatorium godziny="30" ects="1.2"/>
+			<cwiczenia godziny="0" ects="0"/>
+			<konsultacje_wyklad godziny="0" ects="0"/>
+			<konsultacje_cwiczenia godziny="10" ects="0.4"/>
+		</wykladowca>
+		<student>
+			<egzamin godziny="0" ects="0"/>
+			<kolokwium godziny="20" ects="0.8"/>
+			<zajecia_wyklady godziny="10" ects="0.4"/>
+			<zajecia_cwiczenia godziny="15" ects="0.6"/>
+			<zajecia_projekt godziny="0" ects="0"/>
+		</student>
+	</ects>
+</karta>

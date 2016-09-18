@@ -1,0 +1,179 @@
+<karta name='INZ_ROK3_GK_SKiSSO_Programowanie_Aplikacji_Multimedialnych' timestamp='20160607154511' version='1' >
+	<ogolne >
+		<kod_przedmiotu >PAM</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Programowanie Aplikacji Multimedialnych</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Programming of Multimedia Applications</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc >
+			<specjalnosc_item >Grafika komputerowa i projektowanie gier</specjalnosc_item>
+			
+		</specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Mariusz' nazwisko='Kubiński' email='kubmari@gmail.com'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr letni</semestr_nazwa>
+			<semestr_numer >VI</semestr_numer>
+			<forma_zajec >
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item>
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Ćwiczenia</forma_zajec_item>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</forma_zajec>
+			<sposob_realizacji_zajec >
+				<sposob_realizacji_zajec_item >Dwie godziny wykładów tygodniowo.</sposob_realizacji_zajec_item>
+				<sposob_realizacji_zajec_item >Dwie godziny tygodniowo ćwiczeń w pracowni informatycznej.</sposob_realizacji_zajec_item>
+			</sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów specjalizacyjnych do wyboru</modul>
+		<jezyk >
+			<jezyk_item >polski</jezyk_item>
+			
+		</jezyk>
+		<wymagania >
+			<wymagania_item >Podstawy programowania w CPP, C# lub Javie</wymagania_item>
+			
+			
+		</wymagania>
+		<sposob_zaliczenia >
+			<sposob_zaliczenia_item >Zaliczenie z oceną</sposob_zaliczenia_item>
+			
+		</sposob_zaliczenia>
+		<metody_dydaktyczne >
+			<metody_dydaktyczne_item >Wykład z prezentacją</metody_dydaktyczne_item>
+			<metody_dydaktyczne_item >Ćwiczenia przy komputerze</metody_dydaktyczne_item>
+		</metody_dydaktyczne>
+		<przedmioty_powiazane >
+			<przedmioty_powiazane_item >Grupa treści specjalnościowych i do wyboru</przedmioty_powiazane_item>
+			
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa >
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			<ksiazka autor='Alex MacCaw' tytul='JavaScript. Aplikacje WWW' wydawca='Helion' rok='2012'/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca >
+				
+				
+				
+			</bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<tresci_przedmiotu >
+			<opis_ogolny >Przedmiot ma za cel przedstawić studentom w sposób zrozumiały i interesujący podstawy programowania multimedialnych aplikacji wykorzystując język programowania JavaScript.</opis_ogolny>
+			<opis_szczegolowy >
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Podstawy HTML5, CSS3</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='10'/>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='10'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt>
+					<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Podstawy JS</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/>
+				</opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Podstawy PHP</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Obsługa baz danych za pomocą PHP</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='3'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='3'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Bootstrap</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Ajax i jQuery</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='3'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='3'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Angular</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+		<efekty >
+			<wiedza >
+				<efekt >
+					<efekt_kod >W1</efekt_kod>
+					<efekt_opis >Zna zasady pisania multimedialnych aplikacji www</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_W10</efekt_kierunkowy>
+						
+					<efekt_kierunkowy >I1P_W11</efekt_kierunkowy></efekty_kierunkowe>
+				</efekt>
+				
+			</wiedza>
+			<umiejetnosci >
+				<efekt >
+					<efekt_kod >U1</efekt_kod>
+					<efekt_opis >Potrafi projektować interfejsy użytkownika oraz graficzne elementy aplikacji multimedialnej</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_U09</efekt_kierunkowy><efekt_kierunkowy >I1P_G_U04</efekt_kierunkowy><efekt_kierunkowy >I1P_U08</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			<efekt><efekt_kod >U2</efekt_kod><efekt_opis >Potrafi programować interaktywne aplikacje </efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_U08</efekt_kierunkowy><efekt_kierunkowy >I1P_U09</efekt_kierunkowy><efekt_kierunkowy >I1P_G_U04</efekt_kierunkowy></efekty_kierunkowe>
+			</efekt>
+			</umiejetnosci>
+			<kompetencje >
+				<efekt >
+					<efekt_kod >K1</efekt_kod>
+					<efekt_opis >Student potrafi samodzielne zaprojektować i napisać aplikacje multimedialną www działającą według wyznaczonych wytycznych</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_K07</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			</kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Zaliczenie z oceną na podstawie projektów</metody_oceny_opis>
+			<metody_oceny_szczegoly >
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='U1'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='U2'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='K1'/>
+				
+				
+				
+				
+				
+			</metody_oceny_szczegoly>
+		</metody_oceny>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.2'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='0' ects='0'/>
+			<konsultacje_cwiczenia godziny='5' ects='0.2'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='0' ects='0'/>
+			<kolokwium godziny='0' ects='0'/>
+			<zajecia_wyklady godziny='10' ects='0.4'/>
+			<zajecia_cwiczenia godziny='30' ects='1.2'/>
+			<zajecia_projekt godziny='20' ects='0.8'/>
+		</student>
+	</ects>
+</karta>

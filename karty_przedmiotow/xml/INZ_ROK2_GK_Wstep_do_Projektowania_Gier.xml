@@ -1,0 +1,177 @@
+<karta name='INZ_ROK2_GK_Wstep_do_Projektowania_Gier' timestamp='20160531162948' version='1' >
+	<ogolne >
+		<kod_przedmiotu >WDG</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Wstęp do projektowania gier</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Introduction to game design</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc >
+			<specjalnosc_item >Grafika komputerowa</specjalnosc_item>
+			
+		</specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Mariusz' nazwisko='Kubiński' email='kubmari@gmail.com'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr letni</semestr_nazwa>
+			<semestr_numer >IV</semestr_numer>
+			<forma_zajec >
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item>
+				<forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Ćwiczenia</forma_zajec_item>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</forma_zajec>
+			<sposob_realizacji_zajec >
+				<sposob_realizacji_zajec_item >Dwie godziny wykładów tygodniowo przez pierwsze 8 tygodni</sposob_realizacji_zajec_item>
+				<sposob_realizacji_zajec_item >Dwie godziny tygodniowo ćwiczeń w pracowni informatycznej </sposob_realizacji_zajec_item>
+			</sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów specjalizacyjnych</modul>
+		<jezyk >
+			<jezyk_item >polski</jezyk_item>
+			
+		</jezyk>
+		<wymagania >
+			<wymagania_item >Podstawy programowania w dowolnym języku programowania</wymagania_item>
+			
+			
+		</wymagania>
+		<sposob_zaliczenia >
+			<sposob_zaliczenia_item >Egzamin, zaliczenie z oceną na podstawie projektu</sposob_zaliczenia_item>
+			
+		</sposob_zaliczenia>
+		<metody_dydaktyczne >
+			<metody_dydaktyczne_item >Wykład z prezentacją</metody_dydaktyczne_item>
+			<metody_dydaktyczne_item >Ćwiczenia przy komputerze</metody_dydaktyczne_item>
+		</metody_dydaktyczne>
+		<przedmioty_powiazane >
+			<przedmioty_powiazane_item >Grupa treści specjalnościowych i do wyboru</przedmioty_powiazane_item>
+			
+		</przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa >
+				<ksiazka autor='Cormen T. H., Leiserson C. E., Rivest R. L.' tytul='Wprowadzenie do algorytmów' wydawca='WNT' rok='2000'/>
+				
+				
+				<ksiazka autor='Richard S. Wright' tytul='OpenGL Księga Eksperta' wydawca='Helion' rok=''/>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca >
+				
+				
+				
+			</bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<tresci_przedmiotu >
+			<opis_ogolny >Przedmiot ma za cel przedstawić studentom w sposób zrozumiały i interesujący podstawy tworzenia różnego typu gier komputerowych.</opis_ogolny>
+			<opis_szczegolowy >
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Podstawy pracy w OpenGLu</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/>
+				</opis_szczegolowy_item>
+				<opis_szczegolowy_item >
+					<opis_szczegolowy_item_efekty >
+						<opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt>
+						<opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt>
+					</opis_szczegolowy_item_efekty>
+					<opis_szczegolowy_item_temat >Obsługa wejścia i wyjścia</opis_szczegolowy_item_temat>
+					<opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='2'/>
+				</opis_szczegolowy_item>
+			<opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Struktura gry komputerowej</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='8'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='8'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Obsługa zdarzeń</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Czas w grach komputerowych</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='6'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='6'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Podstawowa fizyka w grach komputerowych</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='8'/><opis_szczegolowy_item_forma_godziny forma='cwiczenia' godziny='8'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+		<efekty >
+			<wiedza >
+				<efekt >
+					<efekt_kod >W1</efekt_kod>
+					<efekt_opis >Student wie jak uniezależnić działanie gry od prędkości procesora, potrafi zmieniać prędkość gry.</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1_P_G_W03</efekt_kierunkowy>
+						<efekt_kierunkowy >I1P_W05</efekt_kierunkowy>
+					<efekt_kierunkowy >I1P_W06</efekt_kierunkowy></efekty_kierunkowe>
+				</efekt>
+				
+			</wiedza>
+			<umiejetnosci >
+				<efekt >
+					<efekt_kod >U1</efekt_kod>
+					<efekt_opis >Potrafi zaimplementować proste gry komputerowe różnych typów</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_G_U01</efekt_kierunkowy>
+						<efekt_kierunkowy >I1P_G_U02</efekt_kierunkowy>
+					<efekt_kierunkowy >I1P_G_U03</efekt_kierunkowy></efekty_kierunkowe>
+				</efekt>
+			<efekt><efekt_kod >U2</efekt_kod><efekt_opis >Potrafi zaimplementować prosty system kolizji</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_G_U01</efekt_kierunkowy><efekt_kierunkowy >I1P_G_U02</efekt_kierunkowy><efekt_kierunkowy >I1P_G_U03</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje >
+				<efekt >
+					<efekt_kod >K1</efekt_kod>
+					<efekt_opis >Student jest świadomy znaczenia gier komputerowych w obecnym świecie.</efekt_opis>
+					<efekty_kierunkowe >
+						<efekt_kierunkowy >I1P_G_K02</efekt_kierunkowy>
+						
+					</efekty_kierunkowe>
+				</efekt>
+			</kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis ></metody_oceny_opis>
+			<metody_oceny_szczegoly >
+				<metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='EP' kod_efektu='K1'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='W1'/>
+				<metody_oceny_szczegoly_item metoda='P' kod_efektu='U1'/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U2'/><metody_oceny_szczegoly_item metoda='P' kod_efektu='K1'/>
+				
+				
+				
+				
+				
+			</metody_oceny_szczegoly>
+		</metody_oceny>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.2'/>
+			<konwersatorium godziny='0' ects='0'/>
+			<cwiczenia godziny='30' ects='1.2'/>
+			<konsultacje_wyklad godziny='0' ects='0'/>
+			<konsultacje_cwiczenia godziny='5' ects='0.2'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='10' ects='0.4'/>
+			<kolokwium godziny='0' ects='0'/>
+			<zajecia_wyklady godziny='5' ects='0.2'/>
+			<zajecia_cwiczenia godziny='10' ects='0.4'/>
+			<zajecia_projekt godziny='10' ects='0.4'/>
+		</student>
+	</ects>
+</karta>

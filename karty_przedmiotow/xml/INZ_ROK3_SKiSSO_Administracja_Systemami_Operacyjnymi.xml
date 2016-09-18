@@ -1,0 +1,88 @@
+<karta name='INZ_ROK3_SKiSSO_Administracja_Systemami_Operacyjnymi' timestamp='20160615093206' version='1' >
+	<ogolne >
+		<kod_przedmiotu >ASO</kod_przedmiotu>
+		<nazwa_przedmiotu >
+			<nazwa_przedmiotu_item jezyk='pl' >Administracja systemami operacyjnymi</nazwa_przedmiotu_item>
+			<nazwa_przedmiotu_item jezyk='en' >Operating systems administration</nazwa_przedmiotu_item>
+		</nazwa_przedmiotu>
+		<kierunek >Informatyka</kierunek>
+		<forma >Stacjonarne</forma>
+		<poziom >Studia I stopnia inżynierskie</poziom>
+		<profil >Praktyczny</profil>
+		<specjalnosc><specjalnosc_item >Sieci komputerowe i sieciowe systemy operacyjne</specjalnosc_item></specjalnosc>
+		<jednostka_organizacyjna >Instytut Nauk Ekonomicznych i Informatyki</jednostka_organizacyjna>
+		<koordynator imie='Wojciech' nazwisko='Bieniecki' email='wbieniec@kis.p.lodz.pl'/>
+		<miejsce_zajec >Zajęcia w pomieszczeniu dydaktycznym Instytutu Nauk Humanistycznych i Społecznych</miejsce_zajec>
+		<semestr >
+			<semestr_nazwa >Semestr letni</semestr_nazwa>
+			<semestr_numer >VI</semestr_numer>
+			<forma_zajec><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Wykład</forma_zajec_item><forma_zajec_item przedzial_czasu='semestr' ilosc_godzin='30' >Laboratorium</forma_zajec_item></forma_zajec>
+			<sposob_realizacji_zajec><sposob_realizacji_zajec_item >2 godziny tygodniowo wykładu (15 tyg.)</sposob_realizacji_zajec_item><sposob_realizacji_zajec_item >2 godziny tygodniowo laboratorium; grupy max. 20 osobowe (15 tyg.)</sposob_realizacji_zajec_item></sposob_realizacji_zajec>
+		</semestr>
+		<modul >Moduł przedmiotów specjalizacyjnych do wyboru</modul>
+		<jezyk><jezyk_item >polski</jezyk_item></jezyk>
+		<wymagania><wymagania_item >Efekty kształcenia uzyskane na przedmiotach:
+- Środowisko pracy Informatyka,
+- Systemy operacyjne,
+- Systemy rozproszone,
+t.j. umiejętność pracy w systemach Windows i Linux</wymagania_item></wymagania>
+		<sposob_zaliczenia><sposob_zaliczenia_item >Egzamin</sposob_zaliczenia_item></sposob_zaliczenia>
+		<metody_dydaktyczne><metody_dydaktyczne_item >Wykład: Prezentacje, tutorial, wspólne ćwiczenia</metody_dydaktyczne_item><metody_dydaktyczne_item >Laboratorium: Ćwiczenia laboratoryjne przy komputerze indywidualne i grupowe</metody_dydaktyczne_item><metody_dydaktyczne_item >Prace domowe - projekty</metody_dydaktyczne_item></metody_dydaktyczne>
+		<przedmioty_powiazane><przedmioty_powiazane_item >Systemy operacyjne</przedmioty_powiazane_item><przedmioty_powiazane_item >Sieci komputerowe</przedmioty_powiazane_item><przedmioty_powiazane_item >Systemy rozproszone</przedmioty_powiazane_item></przedmioty_powiazane>
+		<bibliografia >
+			<bibliografia_podstawowa><ksiazka autor='Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley' tytul='Unix i Linux. Przewodnik administratora systemów. Wydanie IV' wydawca='Helion' rok='2011'/><ksiazka autor='' tytul='Training Kit 70-293 Planowanie i obsługa infrastruktury sieciowej Microsoft Windows Server 2003 MCSE' wydawca='Microsoft Press' rok=''/><ksiazka autor='' tytul='Training kit 70-294 Planowanie wdrażanie i obsługa infrastruktury Active Directory Windows Server 2003 MCSE' wydawca='Microsoft Press' rok=''/></bibliografia_podstawowa>
+			<bibliografia_uzupelniajaca><ksiazka autor='Radosław Sokół' tytul='Tablice informatyczne. Linux. Wydanie II' wydawca='Helion' rok='2008'/><ksiazka autor='Witold Wrotek' tytul='Tablice informatyczne. MS Windows Server 2008' wydawca='Helion' rok='2008'/></bibliografia_uzupelniajaca>
+		</bibliografia>
+	</ogolne>
+	
+	<szczegoly >
+		<efekty >
+			<wiedza><efekt><efekt_kod >W1</efekt_kod><efekt_opis >Charakteryzuje, klasyfikuje i porównuje usługi dostępne dla serwerów Linux i Windows.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_W08</efekt_kierunkowy><efekt_kierunkowy >I1P_S_W01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >W2</efekt_kod><efekt_opis >Charakteryzuje podstawowe zadania administracyjne dla sieciowych systemów operacyjnych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_S_W01</efekt_kierunkowy></efekty_kierunkowe></efekt></wiedza>
+			<umiejetnosci><efekt><efekt_kod >U1</efekt_kod><efekt_opis >Instaluje i konfiguruje usługi sieciowe na systemach Linux i Windows Server takie jak: WWW, FTP, DHCP, DNS, SSH.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_S_U01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U2</efekt_kod><efekt_opis >Projektuje systemowe środowisko sieciowe dla zadanej struktury organizacyjnej przedsiębiorstwa.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_S_U01</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >U3</efekt_kod><efekt_opis >Wykonuje podstawowe czynności administracyjne dla serwerów Windows i Linux.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_S_U02</efekt_kierunkowy></efekty_kierunkowe></efekt></umiejetnosci>
+			<kompetencje><efekt><efekt_kod >K1</efekt_kod><efekt_opis >Zagadnienia z zakresu administracji systemami operacyjnymi rozwiązuje samodzielnie oraz w grupie.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_K03</efekt_kierunkowy></efekty_kierunkowe></efekt><efekt><efekt_kod >K2</efekt_kod><efekt_opis >Identyfikuje sytuacje zagrożenia bezpieczeństwa i ciągłości działania systemów operacyjnych.</efekt_opis><efekty_kierunkowe><efekt_kierunkowy >I1P_S_K01</efekt_kierunkowy></efekty_kierunkowe></efekt></kompetencje>
+		</efekty>
+		<metody_oceny >
+			<metody_oceny_opis >Egzamin pisemny:
+Egzamin w formie testu (pytania zamknięta i otwarte).
+
+Projekt:
+Krótkie projekty – implementacja wybranych usług.
+
+Sprawozdanie:
+Sprawozdanie pisemne z wykonanego ćwiczenia.
+
+Inne:
+Zadania w czasie zajęć; zadania wykonywane są wspólnie.</metody_oceny_opis>
+			<metody_oceny_szczegoly><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W1'/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='W2'/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='U1'/><metody_oceny_szczegoly_item metoda='EP' kod_efektu='K1'/><metody_oceny_szczegoly_item metoda='P' kod_efektu='U2'/><metody_oceny_szczegoly_item metoda='S' kod_efektu='U2'/><metody_oceny_szczegoly_item metoda='S' kod_efektu='K2'/><metody_oceny_szczegoly_item metoda='I' kod_efektu='U1'/><metody_oceny_szczegoly_item metoda='I' kod_efektu='U2'/><metody_oceny_szczegoly_item metoda='I' kod_efektu='U3'/><metody_oceny_szczegoly_item metoda='I' kod_efektu='K1'/></metody_oceny_szczegoly>
+		</metody_oceny>
+		<tresci_przedmiotu >
+			<opis_ogolny >Teoria:
+- Poznanie usług systemów operacyjnych Linux i Windows Server.
+- Poznanie zasad administracji systemami Windows Server i Linux oraz implementacji środowisk sieciowych opartych o te systemy.
+
+Praktyka:
+- Projektowanie i implementacja sieci komputerowej w przedsiębiorstwie w oparciu o systemy operacyjne Windows Server i Linux.
+- Konfiguracja usług sieciowych: DNS, DHCP, WWW, SSH, FTP na serwerach Windows i Linux.
+- Implementacja usługi Active Directory (Windows) i Samba (Linux).
+- Zarządzanie bezpieczeństwem serwerów.</opis_ogolny>
+			<opis_szczegolowy><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Konfiguracja pamięci masowej w systemach Linux i Windows Server.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Zarządzanie użytkownikami systemów Windows Server i Linux.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U1</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Konfiguracja usług WWW, FTP, SSH, DNS, DHCP na serwerze Linux Debian.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='10'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='10'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Tworzenie skryptów administracyjnych dla Linux Debian.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='2'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='2'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >U2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Tworzenie domeny Windows. Implementacja Active Directory.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='4'/><opis_szczegolowy_item_forma_godziny forma='laboratorium' godziny='4'/></opis_szczegolowy_item><opis_szczegolowy_item><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty><opis_szczegolowy_item_efekty_efekt >W2</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >U3</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K1</opis_szczegolowy_item_efekty_efekt><opis_szczegolowy_item_efekty_efekt >K2</opis_szczegolowy_item_efekty_efekt></opis_szczegolowy_item_efekty></opis_szczegolowy_item_efekty><opis_szczegolowy_item_temat >Konfiguracja usług WWW, FTP, SSH, DNS, DHCP na serwerze Windows.</opis_szczegolowy_item_temat><opis_szczegolowy_item_forma_godziny forma='wyklad' godziny='8'/><opis_szczegolowy_item_forma_godziny forma='lektorat' godziny='8'/></opis_szczegolowy_item></opis_szczegolowy>
+		</tresci_przedmiotu>
+	</szczegoly>
+	
+	<ects >
+		<wykladowca >
+			<wyklad godziny='30' ects='1.1'/>
+			<konwersatorium godziny='' ects=''/>
+			<cwiczenia godziny='30' ects='1.1'/>
+			<konsultacje_wyklad godziny='' ects=''/>
+			<konsultacje_cwiczenia godziny='10' ects='0.3'/>
+		</wykladowca>
+		<student >
+			<egzamin godziny='30' ects='1.1'/>
+			<kolokwium godziny='' ects=''/>
+			<zajecia_wyklady godziny='' ects=''/>
+			<zajecia_cwiczenia godziny='10' ects='0.3'/>
+			<zajecia_projekt godziny='30' ects='1.1'/>
+		</student>
+	</ects>
+</karta>
